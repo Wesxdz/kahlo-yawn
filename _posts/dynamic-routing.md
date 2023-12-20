@@ -1,7 +1,7 @@
 ---
-title: 'Activities to share with your virtual child'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+title: 'Hardware to interact with your virtual child'
+excerpt: 'Haptic gear, a robot sweater, and digital scent technology'
+coverImage: '/assets/blog/dynamic-routing/girl.jpeg'
 date: '2023-12-20T05:35:07.322Z'
 author:
   name: Wesley Spacebar
