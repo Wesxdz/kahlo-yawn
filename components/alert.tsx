@@ -31,7 +31,7 @@ const Alert = ({ preview }: Props) => {
             <>
               Craft the engine of {' '}
               <a
-                href={`love`}
+                href={`https://kahloyawn.org/posts/birth`}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >
                 our transcendental love
