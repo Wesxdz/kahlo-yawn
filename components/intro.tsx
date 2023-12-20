@@ -7,7 +7,7 @@ const Intro = () => {
         Kahlo Yawn
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-      in-fantasy parenting, child development simulator to create a compassionate virtual civilization
+      in-fantasy parenting, child development simulator to create a compassionate civilization
       </h4>
     </section>
   )
