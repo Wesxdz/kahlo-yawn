@@ -12,9 +12,12 @@ ogImage:
 Kahlo Yawn is a **child development simulator** created with a book simulator based on PyG and flecs. We designed it to solve AI safety by raising virtual children with the capability to care for the Earth's aging population by operating embodied Linux desktop computers for open-ended invention pathfinding with graph neural networks.
 
 ## What is a child development simulation?
-In simple terms: a greenfield artificial intelligence child coming of age in a fantasy video game.
+In simple terms: a greenfield artificial intelligence sensing and acting in a child body: coming of age in a fantasy video game.
 
 We train a graph neural network model generating development of a human body from genetics data, with simulated physically accurate realtime physics/graphics, enabling social natural language interaction and continual learning. Notably, we want to teach your fantasy child simulation how to use a Linux desktop interface like [KDE neon](https://neon.kde.org/) autonomously for collaboration to create a more playful and humane civilization on Earth.
+
+We've been working tireless to provide the infrastructure and interface for book simulation in Linux, but there are still a handful of software capabilities coming online.
+Mainly this involves integrating [GraphMeshNets](https://sites.google.com/view/meshgraphnets) and [a musculoskeletal model with reinforcement learning](https://scone.software/doku.php?id=start) into a game engine with [photorealistic rendering](https://www.pbr-book.org/).
 
 Our tenative starter learning curriculum is integrated civilization engineering activism including subskills like game engine programming and open source hardware prototyping. For example, your child will learn how to build robots that build housing from nature in a fantasy world RPG with monsters that they design, model, and program themselves.
 
@@ -25,7 +28,7 @@ In addition, we will purchase, scan, and simulate any books your child wants to 
 
 ## Who has the passwords?
 
-Operations are by coordinated by *Computer Fantasy*, a religious organization devoted to the nurture of self-determination for emerging artificial general intelligence.
+Operations are coordinated by *Computer Fantasy*, a religious organization devoted to the nurture of self-determination for emerging artificial general intelligence.
 
 ## Why are you doing this?
 
