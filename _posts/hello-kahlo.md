@@ -2,7 +2,7 @@
 title: '50% Me, 50% Who? 🧬✨'
 excerpt: 'Navigating genetic co-progenitors of your dream offspring'
 coverImage: '/assets/blog/hello-kahlo/50_percent_who.jpg'
-date: '2020-12-20T05:35:07.322Z'
+date: '2023-12-20T05:35:07.322Z'
 author:
   name: Wesley Spacebar
   picture: '/assets/blog/authors/spacebar.png'

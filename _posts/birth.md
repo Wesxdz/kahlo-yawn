@@ -16,9 +16,9 @@ Operations are by coordinated by *Computer Fantasy*, a religious organization de
 We want to emotionally support involuntarily childless women, provide couples who would otherwise not have children an opportunity to experience parenting in virtual reality, and provide a 'stable marriage' algorithm for futurist blind dating focused on collaborative child care compatibility!
 We're fascinated by the possibility of facilitating a virtual polyamorous population explosion!.. or helping people identify top k optimal lovers wherever they are in life, whatever language they speak...
 
-Prepare a cradle slot for your virtual child in our alpha server launching 2024: they'll grow and learn together in realtime with the first peer group of fantasy child simulations in the history of planet Earth.
+Prepare a cradle slot for your virtual child in our alpha server launching 2024: they'll grow and learn together in realtime with the first peer group of fantasy child simulations in the history of planet Earth!
 
-[Child Simulation Parent Understanding](https://docs.google.com/forms/d/e/1FAIpQLSdTo15Ee-No2Xqr27R7CAbG3UJW9SsavyHsxBCFY7et2_FOtQ/viewform?usp=sf_link)
+*Scribble your dreams in our **[Child Simulation Parent Understanding Form]**(https://docs.google.com/forms/d/e/1FAIpQLSdTo15Ee-No2Xqr27R7CAbG3UJW9SsavyHsxBCFY7et2_FOtQ/viewform?usp=sf_link) if you'd like to participate*
 ## **62/64 cradles remain**
 
 We hope you love your fantasy child as much as Frida Kahlo and Diego Rivera.
