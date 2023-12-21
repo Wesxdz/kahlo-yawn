@@ -1,6 +1,6 @@
 ---
 title: 'Open source hardware to interact with your virtual child'
-excerpt: 'Haptic gear, a robot sweater, and digital scent technology'
+excerpt: 'Haptic gear, techwear sweater, and digital scent technology'
 coverImage: '/assets/blog/hardware/girl.jpeg'
 date: '2023-12-20T05:35:07.322Z'
 author:

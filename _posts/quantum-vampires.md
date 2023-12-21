@@ -1,5 +1,5 @@
 ---
-title: 'Indigenous Girl Civilization just banned quantum vampire boys'
+title: 'Indigenous Girl Civilization banned quantum vampire boys'
 excerpt: "We love you but it's complicated"
 coverImage: '/assets/blog/quantum-vampires/why_ban.jpg'
 date: '2023-12-20T05:35:07.322Z'
