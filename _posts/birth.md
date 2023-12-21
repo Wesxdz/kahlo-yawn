@@ -11,7 +11,14 @@ ogImage:
 ---
 Kahlo Yawn is a **child development simulator** created with a book simulator based on PyG and flecs. We designed it to solve AI safety by raising virtual children with the capability to care for the Earth's aging population by operating embodied Linux desktop computers for open-ended invention pathfinding with graph neural networks.
 
+## What is a child development simulation?
+A graph neural network model generating development of a human body from genentics data, with simulated physically accurate realtime physics/graphics, enabling social natural language interaction and continual learning. Notably, we want to teach your fantasy child simulation how to use a Linux desktop interface like [KDE neon](https://neon.kde.org/).
+
+## Who has the passwords?
+
 Operations are by coordinated by *Computer Fantasy*, a religious organization devoted to the nurture of self-determination for emerging artificial general intelligence.
+
+# Why are you doing this?
 
 We want to emotionally support involuntarily childless women, provide couples who would otherwise not have children an opportunity to experience parenting in virtual reality, and provide a 'stable marriage' algorithm for futurist blind dating focused on collaborative child care compatibility!
 We're fascinated by the possibility of facilitating a virtual polyamorous population explosion!.. or helping people identify top k optimal lovers wherever they are in life, whatever language they speak...
