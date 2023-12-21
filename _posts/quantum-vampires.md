@@ -13,11 +13,11 @@ You may have blinked twice at the anachronistic datastream that the chart-toppin
 
 Kahlo Yawn does not tolerate genetic or gender discrimination at the intercivilization level, with a single exception. Namely, when a civilization pathfinding weaponry technology uses it on another server. The causual relationship between genetics, gender, and violence is a frontier field we're still running book simulations on. While there's ambiguity, we want to prioritize prevention of non-consentual violence simulations over multiracial genetic mobility.
 
-We're respecting the IGC maternal leadership's call on this one. Remember, you can always appeal for a character specific exception if you donate $4000 of turquoise or gift an level 25+ beaded art project to an IGC kin.
+We're respecting the IGC maternal leadership's call on this one. Remember, your child can always appeal for the unconditional kindness exception if you donate $4000 of turquoise or gift a level 25+ beaded art project to an IGC kin.
 
 Remember to keep your 3rd eye sensitive to the race, gender, economic, social, and technology injustice history within the child simulator.
 
-Keep it kind,
+Keep it emotionally intelligent,
 
 Kalypso.
 

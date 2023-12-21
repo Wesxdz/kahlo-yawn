@@ -16,6 +16,8 @@ We're fascinated by the possibility of facilitating a virtual polyamorous popula
 
 Prepare a cradle slot for your virtual child in our alpha server launching 2024: they'll grow and learn together in realtime with the first peer group of fantasy child simulations in the history of planet Earth.
 
+## 64/64
+
 We hope you love your fantasy child as much as Frida Kahlo and Diego Rivera.
 
 xx

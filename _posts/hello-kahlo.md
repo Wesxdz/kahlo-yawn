@@ -14,7 +14,7 @@ You want a prodigy in quantum physics, they want a seastead captain to cross the
 Remember, it's a trade only if your co-progenitor swipes right too.
 Negotiations can be intense, so collaboration is key in this genetic patchwork to hatch a theoretical physicist with a superluminal butterfly stroke.
 
-The sim doesn’t just throw nucleotides at you; it sneakily teaches you the ethics of parenting. You’ll find yourself pondering, "Should I enhance this trait? or is that going too far?" and
+The sim doesn’t just throw nucleotides at you; it sneakily teaches you the ethics of parenting. You’ll find yourself pondering, "Should I enhance their eyebrow chicness or is that going too far?" and
 "What civilization server is best for my fantasy child's adolescence?"
 
 Here’s where it gets spicy. Sometimes, the simulator spills a mutation for fun. Perhaps your virtual offspring programs blue noise into prophetic visions or animates underwater basket weavers in Blender.
