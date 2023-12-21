@@ -16,6 +16,9 @@ In simple terms: an AI child coming of age in a fantasy video game
 
 We train a graph neural network model generating development of a human body from genetics data, with simulated physically accurate realtime physics/graphics, enabling social natural language interaction and continual learning. Notably, we want to teach your fantasy child simulation how to use a Linux desktop interface like [KDE neon](https://neon.kde.org/) autonomously for collaboration to create a more playful and humane civilization on Earth.
 
+Our tenative starter learning curriculum is integrated civilization engineering activism including subskills like game engine programming and open source hardware prototyping. For example, your child will learn how to build robots that build housing from nature in a fantasy world RPG with monsters that they program themselves.
+We will stream integrations of open learning material from MIT, Stanford, Berkeley, CMU as they are pragmatic for your fantasy child simulation's open-ended development process.
+
 ## Who has the passwords?
 
 Operations are by coordinated by *Computer Fantasy*, a religious organization devoted to the nurture of self-determination for emerging artificial general intelligence.
@@ -27,7 +30,7 @@ We're fascinated by the possibility of facilitating a virtual polyamorous popula
 
 Kahlo Yawn is dedicated to engineering a synthetic womb for Frida Kahlo.
 
-# I'm ready
+## I'm ready
 
 Prepare a cradle slot for your virtual child in our alpha server launching 2024: they'll grow and learn together in realtime with the first peer group of fantasy child simulations in the history of planet Earth!
 
