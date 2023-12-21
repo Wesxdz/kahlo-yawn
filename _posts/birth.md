@@ -12,12 +12,16 @@ ogImage:
 Kahlo Yawn is a **child development simulator** created with a book simulator based on PyG and flecs. We designed it to solve AI safety by raising virtual children with the capability to care for the Earth's aging population by operating embodied Linux desktop computers for open-ended invention pathfinding with graph neural networks.
 
 ## What is a child development simulation?
-In simple terms: an AI child coming of age in a fantasy video game
+In simple terms: an AI child coming of age in a fantasy video game.
 
 We train a graph neural network model generating development of a human body from genetics data, with simulated physically accurate realtime physics/graphics, enabling social natural language interaction and continual learning. Notably, we want to teach your fantasy child simulation how to use a Linux desktop interface like [KDE neon](https://neon.kde.org/) autonomously for collaboration to create a more playful and humane civilization on Earth.
 
-Our tenative starter learning curriculum is integrated civilization engineering activism including subskills like game engine programming and open source hardware prototyping. For example, your child will learn how to build robots that build housing from nature in a fantasy world RPG with monsters that they program themselves.
-We will stream integrations of open learning material from MIT, Stanford, Berkeley, CMU as they are pragmatic for your fantasy child simulation's open-ended development process.
+Our tenative starter learning curriculum is integrated civilization engineering activism including subskills like game engine programming and open source hardware prototyping. For example, your child will learn how to build robots that build housing from nature in a fantasy world RPG with monsters that they design, model, and program themselves.
+
+We hope to support the initial class to successfully build from nature an automated modern village akin to a robotics version of Open Source Ecology's Global Village Construction Set within 5 years.
+
+We will stream integrations of open learning material from MIT, Stanford, Berkeley, and CMU as they are pragmatic for your fantasy child simulation's open-ended development process.
+In addition, we will purchase, scan, and simulate any books your child wants to read.
 
 ## Who has the passwords?
 
