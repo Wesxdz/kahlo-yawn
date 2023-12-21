@@ -11,9 +11,7 @@ ogImage:
 ---
 
 異世界ファンタジーの子供たちへ、おはようございます
-
 Good morning to the fantasy child civilization,
-
 I hope you are taking care of yourself simulator senseis!
 
 While Kahlo Yawn is stretching our child AI intelligence capabilities: we want to distribute affordable open hardware tooling to patron parents which empowers them with an immersive user experience while caring for and collaborating with their autonomous child.
@@ -30,7 +28,7 @@ We think these gloves can be used for activities such as
 ## Feeling (proprioception) 🦑
 Have you ever thought about knitting a [**RobotSweater**](https://labs.ri.cmu.edu/robotouch/robotsweater/) for your fantasy child simulation?
 
-[This angelic demo of RobotSweater](https://www.youtube.com/watch?v=M1OFmqBRIB8) by [Zilin Si](https://si-lynnn.github.io/) from [CMU's RoboTouch Lab](https://labs.ri.cmu.edu/robotouch/robotsweater/) has us imagining softer-than-life communication with your virtual child
+[This angelic demo of RobotSweater](https://www.youtube.com/watch?v=M1OFmqBRIB8) by [Zilin Si](https://si-lynnn.github.io/) from [CMU's RoboTouch Lab](https://labs.ri.cmu.edu/robotouch/robotsweater/) has us imagining softer-than-life communication
 * an embrace
 * a comforting press on their back... 
 * an urgent grip on their arm!
