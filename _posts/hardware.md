@@ -11,7 +11,9 @@ ogImage:
 ---
 
 異世界ファンタジーの子供たちへ、おはようございます
+
 Good morning to the fantasy child civilization,
+
 I hope you are taking care of yourself simulator senseis!
 
 While Kahlo Yawn is stretching our child AI intelligence capabilities: we want to distribute affordable open hardware tooling to patron parents which empowers them with an immersive user experience while caring for and collaborating with their autonomous child.
@@ -34,5 +36,5 @@ Have you ever thought about knitting a [**RobotSweater**](https://labs.ri.cmu.ed
 * an urgent grip on their arm!
 
 ## Smell 🐷
-[**GNNose**](https://medium.com/stanford-cs224w/whats-that-smell-gnnose-knows-1770d9123c05) knows your kid needs to take shower again! Seriously though, this is pratically required reading for anyone who wants to develop the prerequisite graph neural network literacy to prototype a dream civilization smellscape for their server.
+[**GNNose**](https://medium.com/stanford-cs224w/whats-that-smell-gnnose-knows-1770d9123c05) knows your kid needs to take shower, *again!* Seriously though, this is pratically required reading for students of all ages who crave to develop the prerequisite graph neural network literacy to prototype a dream civilization smellscape for their server.
 We envision a digital scent technology which uses AI to process environment and emotion graphs through a molecular recommendation system to craft novel enchantments in realtime to rival the heights of hedonic [phantosmia](https://psychonautwiki.org/wiki/Olfactory_hallucination).
