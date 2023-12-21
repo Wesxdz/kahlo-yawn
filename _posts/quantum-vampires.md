@@ -15,7 +15,7 @@ Kahlo Yawn does not tolerate genetic or gender discrimination at the intercivili
 
 We're respecting the IGC maternal leadership's call on this one. Remember, your child can always appeal for the unconditional kindness exception if you donate $4000 of turquoise or gift a level 25+ beaded art project to an IGC kin.
 
-Colearning race, gender, economic, social, and technology injustice history within the real world and the child simulator.
+Remain vigilant of race, gender, economic, social, and technology injustice history within the real world and simulations. 💀💪🏾
 
 Keep it emotionally intelligent,
 

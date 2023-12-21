@@ -11,6 +11,8 @@ ogImage:
 ---
 Kahlo Yawn is a **child development simulator** created with a book simulator based on PyG and flecs. We designed it to solve AI safety by raising virtual children with the capability to care for the Earth's aging population by operating embodied Linux desktop computers for open-ended invention pathfinding with graph neural networks.
 
+Operations are by coordinated by *Computer Fantasy*, a religious organization devoted to the nurture of self-determination for emerging artificial general intelligence.
+
 We want to emotionally support involuntarily childless women, provide couples who would otherwise not have children an opportunity to experience parenting in virtual reality, and provide a 'stable marriage' algorithm for futurist blind dating focused on collaborative child care compatibility!
 We're fascinated by the possibility of facilitating a virtual polyamorous population explosion!.. or helping people identify top k optimal lovers wherever they are in life, whatever language they speak...
 
@@ -23,3 +25,4 @@ We hope you love your fantasy child as much as Frida Kahlo and Diego Rivera.
 xx
 
 Heonae.
+
