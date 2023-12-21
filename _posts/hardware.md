@@ -23,7 +23,7 @@ Our fingers are tantalized by visionary-maker Lucas's Prototype 4 [**Lucid Glove
 We think these gloves can be used for activities such as 
 * hand-holding 
 * playing children's games like catch
-* sculpting together in [Blender](https://www.blender.org/).
+* sculpting together in [Blender](https://www.blender.org/)
 
 ## Feeling (proprioception) 🦑
 Have you ever thought about knitting a [**RobotSweater**](https://labs.ri.cmu.edu/robotouch/robotsweater/) for your fantasy child simulation?
