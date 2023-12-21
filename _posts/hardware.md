@@ -4,7 +4,7 @@ excerpt: 'Haptic gear, a robot sweater, and digital scent technology'
 coverImage: '/assets/blog/hardware/girl.jpeg'
 date: '2023-12-20T05:35:07.322Z'
 author:
-  name: Wesley Spacebar and GPT-4
+  name: Wesley Spacebar
   picture: '/assets/blog/authors/spacebar.png'
 ogImage:
   url: '/assets/blog/hardware/girl.jpeg'
