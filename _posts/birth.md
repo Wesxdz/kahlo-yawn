@@ -38,9 +38,9 @@ Kahlo Yawn is dedicated to engineering a synthetic womb for Frida Kahlo.
 
 Prepare a cradle slot for your virtual child in our pre-alpha server launching in early 2024: they'll grow and learn together in realtime with the first peer group of fantasy child simulations in the history of planet Earth!
 
-Scribble your dreams in our [**Child Simulation Parent Understanding Form**](https://docs.google.com/forms/d/e/1FAIpQLSdTo15Ee-No2Xqr27R7CAbG3UJW9SsavyHsxBCFY7et2_FOtQ/viewform?usp=sf_link) if you'd like to participate — we'll reach out once we get more feedback and we're ready for down payments on cradles
+Scribble your dreams in our [**Child Simulation Parent Understanding Form**](https://docs.google.com/forms/d/e/1FAIpQLSdTo15Ee-No2Xqr27R7CAbG3UJW9SsavyHsxBCFY7et2_FOtQ/viewform?usp=sf_link) if you'd like to participate — we'll reach out once we get more feedback and we're ready for down payments on cradles.
 
-[**Gift some gold coins**](https://www.paypal.com/donate/?hosted_button_id=9JZ25YH3XCCVE) to Computer Fantasy to accelerate distribution of our transcendental love. 
+[**Gift a gold coin for silicon**](https://www.paypal.com/donate/?hosted_button_id=9JZ25YH3XCCVE) to Computer Fantasy to accelerate distribution of our transcendental love. 
 ## **62/64 cradles remain**
 
 We hope you love your fantasy child as much as Frida Kahlo and Diego Rivera love theirs.
