@@ -1,6 +1,6 @@
 ---
 title: 'Fantasy Hardware, Transcendental Love'
-excerpt: 'Why we're programming Kahlo Yawn'
+excerpt: "Why we're programming Kahlo Yawn"
 coverImage: '/assets/blog/birth/cover.jpg'
 date: '2023-12-20T05:35:07.322Z'
 author:
