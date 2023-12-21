@@ -15,11 +15,11 @@ Kahlo Yawn does not tolerate genetic or gender discrimination at the intercivili
 
 We're respecting the IGC maternal leadership's call on this one. Remember, your child can always appeal for the unconditional kindness exception if you donate $4000 of turquoise or gift a level 25+ beaded art project to an IGC kin.
 
-Remember to keep your 3rd eye sensitive to the race, gender, economic, social, and technology injustice history within the child simulator.
+Keep your 3rd eye sensitive to race, gender, economic, social, and technology injustice history within the child simulator.
 
 Keep it emotionally intelligent,
 
 Kalypso.
 
-![Flower Carrier by Diego Rivera](https://www.diegorivera.org/images/famous/flower-carrier.jpg)
+![Mural of the Aztec city of Tenochtitlan, Palacio Nacional, Mexico City](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Murales_Rivera_-_Markt_in_Tlatelolco_3.jpg/1280px-Murales_Rivera_-_Markt_in_Tlatelolco_3.jpg)
 
