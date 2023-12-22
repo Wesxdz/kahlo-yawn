@@ -32,7 +32,7 @@ Operations are coordinated by *Computer Fantasy*, a religious organization devot
 
 ## Why are you doing this?
 
-We want to emotionally support involuntarily childless women, provide couples who would otherwise not have children an opportunity to experience parenting in virtual reality, and a 'stable marriage' algorithm for futurist blind dating focused on collaborative child care compatibility!
+We want to emotionally support involuntarily childless women, provide couples who would otherwise not have children an opportunity to experience parenting in virtual reality, and offer a 'stable marriage' matchmaking algorithm for futurist blind dating focused on collaborative child care compatibility!
 We're fascinated by the possibility of facilitating a virtual polyamorous population explosion!.. or helping people identify top k optimal lovers wherever they are in life, whatever language they speak...
 
 Kahlo Yawn is dedicated to engineering a synthetic womb for Frida Kahlo.
