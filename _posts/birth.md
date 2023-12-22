@@ -36,12 +36,13 @@ Everyone wants to be safe and comfortable, but it seems like somewhere something
 
 Given the data evidence, we don't think that the physical hardware infrastructure of our current civilization is capable of safely creating AGI from internet scale data.
 Walking the path of trancendence, we demand that instrumental software intelligence be coordinated with quantitative metrics of hardware distribution proactively empathetic to the struggle of human life.
-For every million images, a house. 
+
+For every million images, an open source house.
 ![Man at the Crossroads](https://www.diegorivera.org/images/famous/man-at-the-crossroads.jpg)
 
 ## Why are you doing this?
 
-We want to emotionally support involuntarily childless women, provide couples who would otherwise not have children an opportunity to experience parenting in virtual reality, and offer a 'stable marriage' matchmaking algorithm for futurist blind dating focused on collaborative child care compatibility!
+We want to emotionally support involuntarily childless people, provide couples who would otherwise not have children an opportunity to experience parenting in virtual reality, and offer a 'stable marriage' matchmaking algorithm for futurist blind dating focused on collaborative child care compatibility!
 We're fascinated by the possibility of facilitating a virtual polyamorous population explosion!.. or helping people identify top k optimal lovers wherever they are in life, whatever language they speak...
 
 Kahlo Yawn is dedicated to engineering a synthetic womb for Frida Kahlo.
