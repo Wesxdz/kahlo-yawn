@@ -34,7 +34,7 @@ Kahlo Yawn does not tolerate genetic or gender discrimination at the intercivili
 
 We're respecting the IGC maternal leadership's call on this one. Remember, your child can always appeal for the unconditional kindness exception if they gift a level 25+ beaded art project to an IGC kin... unless they're like Andrew Jackson's cousin or something, ya?
 
-Remain compassionately sensitive, pragmatically vigilant and emotionally intelligent regarding race, gender, economic, social, and technology injustice history within the real world and computer simulations. 💀💪🏾
+Remain compassionately sensitive, pragmatically vigilant, and emotionally intelligent regarding race, gender, economic, social, and technology injustice history within the real world and computer simulations. 💀💪🏾
 
 Yours forever in the solidarity of civilization simulations,
 
