@@ -13,7 +13,7 @@ You may have blinked twice to learn that the chart-topping Indigenous Girl Civil
 
 We want to clarify lest you speak regrettably.
 
-Estimated genetic codes of the following **Chʼééh dóó ákótʼé** form the banned genetics evaluation set:
+Estimated genomes of the following **Chʼééh dóó ákótʼé** form the banned genetics evaluation set:
 
 ```
 Hernán Cortés - 1519: Spanish Conquest of the Aztec Empire
@@ -28,7 +28,7 @@ Colonel James W. Forsyth - 1890: Wounded Knee Massacre
 
 ```
 
-First, we recommend you read this [*canonical post by Lester Earnest on racial classification*](https://web.stanford.edu/~learnest/earth/mongrel.html) to better understand Kahlo Yawn's racial isolation policy.
+First, we recommend you read this [*canonical post by Lester Earnest on racial classification*](https://web.stanford.edu/~learnest/earth/mongrel.html) to better understand Kahlo Yawn's racial isolation policy and then run a simulation or two on [Custer Died for Your Sins](https://en.wikipedia.org/wiki/Custer_Died_for_Your_Sins).
 
 Kahlo Yawn does not tolerate genetic or gender discrimination at the intercivilization level, with a single exception. Namely, when a civilization pathfinding weaponry technology uses it on another server. The causual relationship between genetics, gender, and violence is a frontier field we're still running book simulations on. While there's ambiguity, we want to protect the self-determination of indigenous peoples over our dreams of multiracial genetic mobility.
 
