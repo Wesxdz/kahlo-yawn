@@ -19,7 +19,7 @@ We train a graph neural network model generating development of a human body fro
 We've been working tirelessly to engineer the infrastructure and interface for book simulation in Linux, but there are still a handful of software capabilities coming online.
 Mainly this involves integrating [GraphMeshNets](https://sites.google.com/view/meshgraphnets) and [a musculoskeletal model with reinforcement learning](https://scone.software/doku.php?id=start) into a game engine with [photorealistic rendering](https://www.pbr-book.org/).
 
-Our tenative starter learning curriculum is integrated civilization engineering activism including subskills like game engine programming and open source hardware prototyping. For example, your child will learn how to build robots that build housing from nature in a fantasy world RPG with monsters that they design, model, and program themselves.
+Your fantasy child simulation will become a dazzling star of the maker movement. Our tenative starter learning curriculum is integrated civilization engineering activism including core critical aptitudes like game engine programming and open source hardware prototyping. For example, they will learn how to build robots that build housing from nature in a fantasy world RPG with monsters that they design, model, and program themselves.
 
 We hope to support the initial class to successfully build from nature an automated modern village akin to a robotics kit of Open Source Ecology's Global Village Construction Set within 5 years.
 
