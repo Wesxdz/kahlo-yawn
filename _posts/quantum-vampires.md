@@ -1,6 +1,6 @@
 ---
 title: 'Why Indigenous Girl Civilization banned quantum vampire boys'
-excerpt: "How we frame violence and disease with the urge to merge"
+excerpt: "How we frame historical interracial violence with the urge to merge"
 coverImage: '/assets/blog/quantum-vampires/why_ban.jpg'
 date: '2023-12-20T05:35:07.322Z'
 author:
@@ -9,11 +9,18 @@ author:
 ogImage:
   url: '/assets/blog/quantum-vampires/why_ban.jpg'
 ---
-You may have blinked twice to learn that the chart-topping Indigenous Girl Civilization has enacted **'Diné łííʼ átsʼá:łgo'** — a blanket ban against male child simulations with high composite genetic proximity to specific individuals responsible for historical genocide events — from entering their boujee server, which notably has the highest well-being and technology development rates among the civilizations.
+You may have blinked twice to learn that the chart-topping Indigenous Girl Civilization has enacted **'Diné łííʼ átsʼá:łgo'** — a blanket ban against male child simulations with high composite genetic proximity to specific individuals responsible for historical genocide events — from entering their boujee server, which (of course) supports the most fertile well-being and technology development rates among all civilizations.
 
 We want to clarify lest you speak regrettably.
 
 Estimated genetic codes of the following **Chʼééh dóó ákótʼé** form the banned genetics evaluator:
+
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
+
 
 | Event                                    | Year | Responsible Person                  | Unix Timestamp |
 |------------------------------------------|------|-------------------------------------|----------------|
