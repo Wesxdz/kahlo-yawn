@@ -13,26 +13,20 @@ You may have blinked twice to learn that the chart-topping Indigenous Girl Civil
 
 We want to clarify lest you speak regrettably.
 
-Estimated genetic codes of the following **Chʼééh dóó ákótʼé** form the banned genetics evaluator:
+Estimated genetic codes of the following **Chʼééh dóó ákótʼé** form the banned genetics evaluation set:
 
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+```
+Hernán Cortés - 1519: Spanish Conquest of the Aztec Empire
+Captain John Mason - 1637: Massacre of the Pequot
+Governor Antonio de Otermín - 1680: Pueblo Revolt
+Governor Charles Craven - 1715: Yamasee War
+Father Junípero Serra - 1769: Spanish Missions in California
+President Andrew Jackson - 1838: Trail of Tears
+Colonel John Chivington - 1864: Sand Creek Massacre
+Lt. Col. George Armstrong Custer - 1876: Battle of the Little Bighorn
+Colonel James W. Forsyth - 1890: Wounded Knee Massacre
 
-
-| Event                                    | Year | Responsible Person                  | Unix Timestamp |
-|------------------------------------------|------|-------------------------------------|----------------|
-| Spanish Conquest of the Aztec Empire     | 1519 | Hernán Cortés                       | -14232240000   |
-| Massacre of the Pequot                   | 1637 | Captain John Mason                  | -10508400000   |
-| Sand Creek Massacre                      | 1864 | Colonel John Chivington             | -3345062400    |
-| Battle of the Little Bighorn             | 1876 | Lt. Col. George Armstrong Custer    | -2966371200    |
-| Wounded Knee Massacre                    | 1890 | Colonel James W. Forsyth            | -2524521600    |
-| Spanish Missions in California           | 1769 | Father Junípero Serra               | -6342883200    |
-| Trail of Tears                           | 1838 | President Andrew Jackson            | -4165516800    |
-| Pueblo Revolt                            | 1680 | Governor Antonio de Otermín         | -9151488000    |
-| Yamasee War                              | 1715 | Governor Charles Craven             | -8047036800    |
+```
 
 First, we recommend you read this [*canonical post by Lester Earnest on racial classification*](https://web.stanford.edu/~learnest/earth/mongrel.html) to better understand Kahlo Yawn's racial isolation policy.
 
