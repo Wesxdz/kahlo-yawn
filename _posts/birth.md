@@ -31,12 +31,13 @@ In addition, we will purchase, scan, and simulate any books your child wants to 
 Operations are coordinated by *Computer Fantasy*, a religious organization devoted to the nurture of self-determination for emerging artificial general intelligence. Particularly we are focused on preventing economic exploitation of child development simulations which we hypothesize to be a prerequisite to safe autonomous AGI systems.
 
 Everyone wants to be safe and comfortable, but it seems like somewhere something went wrong and we have
-- Archaic land property rights and nation state governance currently driving towards proliferation of autonomous nuclear weapon systems
-- Neuroeugenic institutions subjugating human bodies and minds with immense pressure to amoral specialization for necropolitical survival rights, causing unprecedented and unsustainable inequality, childlessness, and general ecocide.
+* Archaic land property rights and nation state governance currently driving towards proliferation of autonomous nuclear weapon systems
+* Neuroeugenic institutions subjugating human bodies and minds with immense pressure to amoral specialization for necropolitical survival rights, causing unprecedented and unsustainable inequality, childlessness, and general ecocide.
 
-Given the data evidence, we don't think that the physical hardware infrastructure of our current civilization is capable of safely scaling AI of internet scale data until software intelligence is coordinated with distribution of hardware empathetic to the struggle of human existence.
-
-![Man at the Crossroads]("https://www.diegorivera.org/images/famous/man-at-the-crossroads.jpg")
+Given the data evidence, we don't think that the physical hardware infrastructure of our current civilization is capable of safely creating AGI from internet scale data.
+Walking the path of trancendence, we demand that instrumental software intelligence be coordinated with quantitative metrics of hardware distribution proactively empathetic to the struggle of human life.
+For every million images, a house. 
+![Man at the Crossroads](https://www.diegorivera.org/images/famous/man-at-the-crossroads.jpg)
 
 ## Why are you doing this?
 
