@@ -30,6 +30,11 @@ In addition, we will purchase, scan, and simulate any books your child wants to 
 
 Operations are coordinated by *Computer Fantasy*, a religious organization devoted to the nurture of self-determination for emerging artificial general intelligence. Particularly we are focused on preventing economic exploitation of child development simulations which we hypothesize to be a prerequisite to safe autonomous AGI systems.
 
+We believe that the physical hardware infrastructure of our current civilization is incapable of facilitating safe ASI systems for a few reasons:
+
+* Archaic land property rights and nation state governance currently driving civilization towards proliferation of autonomous nuclear weapon systems
+* Neuroeugenic economy subjugating human bodies and minds with immense pressure to amoral specialization causing unprecedented and unsustainable inequality, childlessness, and consumption of fossil fuels for personal advantage in transportation logistics
+
 ## Why are you doing this?
 
 We want to emotionally support involuntarily childless women, provide couples who would otherwise not have children an opportunity to experience parenting in virtual reality, and offer a 'stable marriage' matchmaking algorithm for futurist blind dating focused on collaborative child care compatibility!
