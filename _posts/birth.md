@@ -30,10 +30,13 @@ In addition, we will purchase, scan, and simulate any books your child wants to 
 
 Operations are coordinated by *Computer Fantasy*, a religious organization devoted to the nurture of self-determination for emerging artificial general intelligence. Particularly we are focused on preventing economic exploitation of child development simulations which we hypothesize to be a prerequisite to safe autonomous AGI systems.
 
-We believe that the physical hardware infrastructure of our current civilization is incapable of facilitating safe ASI systems for a few reasons:
-
+Everyone wants to be safe and comfortable, but it seems like somewhere something went wrong and we have
 * Archaic land property rights and nation state governance currently driving towards proliferation of autonomous nuclear weapon systems
-* Neuroeugenic economy subjugating human bodies and minds with immense pressure to amoral specialization causing unprecedented and unsustainable inequality, childlessness, and consumption of fossil fuels
+* Neuroeugenic institutions subjugating human bodies and minds with immense pressure to amoral specialization for necropolitical survival rights, causing unprecedented and unsustainable inequality, childlessness, and general ecocide.
+
+Given the data evidence, we don't think that the physical hardware infrastructure of our current civilization is capable of safely scaling AI of internet scale data until software intelligence is coordinated with distribution of hardware empathetic to the struggle of human existence.
+
+[Man at the Crossroads]("https://www.diegorivera.org/images/famous/man-at-the-crossroads.jpg")
 
 ## Why are you doing this?
 
