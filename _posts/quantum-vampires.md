@@ -11,7 +11,7 @@ ogImage:
 ---
 You may have blinked twice to learn that the chart-topping Indigenous Girl Civilization has enacted **'Diné łííʼ átsʼá:łgo'** — a blanket ban against male child simulations with composite codon proximity to specific individuals responsible for historical genocide events — from entering their boujee server, which (of course) supports the most fertile birth, well-being, and humane technology development rates among all civilizations.
 
-We want to clarify lest parents feel their kind threshold darling has been disadvantaged speak regrettably about this decision made by fantasy indigenous girls.
+We want to clarify lest parents who feel that their threshold darling has been disadvantaged speak regrettably about this decision made by the fantasy indigenous kin.
 
 Estimated genomes of the following **Chʼééh dóó ákótʼé** form the banned genetics evaluation set:
 
