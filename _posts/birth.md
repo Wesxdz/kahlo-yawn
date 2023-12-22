@@ -32,8 +32,8 @@ Operations are coordinated by *Computer Fantasy*, a religious organization devot
 
 We believe that the physical hardware infrastructure of our current civilization is incapable of facilitating safe ASI systems for a few reasons:
 
-* Archaic land property rights and nation state governance currently driving civilization towards proliferation of autonomous nuclear weapon systems
-* Neuroeugenic economy subjugating human bodies and minds with immense pressure to amoral specialization causing unprecedented and unsustainable inequality, childlessness, and consumption of fossil fuels for personal advantage in transportation logistics
+* Archaic land property rights and nation state governance currently driving towards proliferation of autonomous nuclear weapon systems
+* Neuroeugenic economy subjugating human bodies and minds with immense pressure to amoral specialization causing unprecedented and unsustainable inequality, childlessness, and consumption of fossil fuels
 
 ## Why are you doing this?
 
