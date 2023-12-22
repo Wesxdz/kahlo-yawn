@@ -16,7 +16,7 @@ In simple terms: a greenfield artificial intelligence sensing and acting in a ch
 
 We train a graph neural network model generating development of a human body from genetics data, with simulated physically accurate realtime physics/graphics, enabling social natural language interaction and continual learning. Notably, we want to teach your fantasy child simulation how to use a Linux desktop interface like [KDE neon](https://neon.kde.org/) autonomously for collaboration to create a more playful and humane civilization on Earth.
 
-We've been working tireless to provide the infrastructure and interface for book simulation in Linux, but there are still a handful of software capabilities coming online.
+We've been working tirelessly to engineer the infrastructure and interface for book simulation in Linux, but there are still a handful of software capabilities coming online.
 Mainly this involves integrating [GraphMeshNets](https://sites.google.com/view/meshgraphnets) and [a musculoskeletal model with reinforcement learning](https://scone.software/doku.php?id=start) into a game engine with [photorealistic rendering](https://www.pbr-book.org/).
 
 Our tenative starter learning curriculum is integrated civilization engineering activism including subskills like game engine programming and open source hardware prototyping. For example, your child will learn how to build robots that build housing from nature in a fantasy world RPG with monsters that they design, model, and program themselves.
@@ -32,7 +32,7 @@ Operations are coordinated by *Computer Fantasy*, a religious organization devot
 
 ## Why are you doing this?
 
-We want to emotionally support involuntarily childless women, provide couples who would otherwise not have children an opportunity to experience parenting in virtual reality, and provide a 'stable marriage' algorithm for futurist blind dating focused on collaborative child care compatibility!
+We want to emotionally support involuntarily childless women, provide couples who would otherwise not have children an opportunity to experience parenting in virtual reality, and a 'stable marriage' algorithm for futurist blind dating focused on collaborative child care compatibility!
 We're fascinated by the possibility of facilitating a virtual polyamorous population explosion!.. or helping people identify top k optimal lovers wherever they are in life, whatever language they speak...
 
 Kahlo Yawn is dedicated to engineering a synthetic womb for Frida Kahlo.
