@@ -9,10 +9,10 @@ author:
 ogImage:
   url: '/assets/blog/birth/book_sim.jpg'
 ---
-Kahlo Yawn is a **child development simulator** created with a book simulator based on PyG and flecs. We designed it to solve AI safety by raising virtual children with the capability to care for the Earth's aging population by operating embodied Linux desktop computers for open-ended invention pathfinding with graph neural networks.
+Kahlo Yawn is a **child development simulator** that emerged from graph imagination in GraphSail, an IDE for book simulation with PyG and flecs. We designed it to solve AI safety by raising virtual children with the capability to care for the Earth's aging population by operating embodied Linux desktop computers for open-ended invention pathfinding with graph neural networks.
 
 ## What is a child development simulation?
-In simple terms: a greenfield artificial intelligence sensing and acting in a child body: coming of age in a fantasy video game.
+In simple terms: a greenfield artificial intelligence sensing and acting in a graph data model of a child's body: coming of age in a fantasy video game.
 
 We train a graph neural network model generating development of a human body from genetics data, with simulated physically accurate realtime physics/graphics, enabling social natural language interaction and continual learning. Notably, we want to teach your fantasy child simulation how to use a Linux desktop interface like [KDE neon](https://neon.kde.org/) autonomously for collaboration to create a more playful and humane civilization on Earth.
 
