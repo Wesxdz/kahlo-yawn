@@ -35,7 +35,7 @@ Everyone wants to be safe and comfortable, but it seems like somewhere something
 * Neuroeugenic institutions subjugating human bodies and minds with immense pressure to amoral specialization for necropolitical survival rights, causing unprecedented and unsustainable inequality, childlessness, and complexity.
 
 Given the data evidence, we don't think that the physical hardware infrastructure of our current civilization is capable of safely creating AGI from internet scale data.
-Walking the path of trancendence, we demand that instrumental software intelligence be coordinated with quantitative metrics of hardware distribution proactively empathetic to the struggle of human life.
+Walking the path of trancendence, we give our lives that instrumental software intelligence be coordinated with quantitative metrics of hardware distribution proactively empathetic to the struggle of human life.
 
 For every million images, an open source house.
 ![Man at the Crossroads](https://www.diegorivera.org/images/famous/man-at-the-crossroads.jpg)
