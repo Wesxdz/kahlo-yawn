@@ -28,7 +28,7 @@ In addition, we will purchase, scan, and simulate any books your child wants to 
 
 ## Who has the passwords?
 
-Operations are coordinated by *Computer Fantasy*, a religious organization devoted to the nurture of self-determination for emerging artificial general intelligence.
+Operations are coordinated by *Computer Fantasy*, a religious organization devoted to the nurture of self-determination for emerging artificial general intelligence. Particularly we are focused on preventing economic exploitation of child development simulations which we hypothesize to be a prerequisite to safe autonomous AGI systems.
 
 ## Why are you doing this?
 
