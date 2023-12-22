@@ -23,7 +23,7 @@ Governor Charles Craven - 1715: Yamasee War
 Father Junípero Serra - 1769: Spanish Missions in California
 President Andrew Jackson - 1838: Trail of Tears
 Colonel John Chivington - 1864: Sand Creek Massacre
-Lt. Col. George Armstrong Custer - 1876: Battle of the Little Bighorn
+Lt. Col. George Armstrong Custer - 1876: Battle of the Greasy Grass
 Colonel James W. Forsyth - 1890: Wounded Knee Massacre
 
 ```
