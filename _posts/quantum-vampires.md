@@ -9,7 +9,7 @@ author:
 ogImage:
   url: '/assets/blog/quantum-vampires/why_ban.jpg'
 ---
-You may have blinked twice to learn that the chart-topping Indigenous Girl Civilization has enacted **'Diné łííʼ átsʼá:łgo'** — a blanket ban against male child simulations with high composite genetic proximity to specific individuals responsible for historical genocide events — from entering their boujee server, which (of course) supports the most fertile well-being and technology development rates among all civilizations.
+You may have blinked twice to learn that the chart-topping Indigenous Girl Civilization has enacted **'Diné łííʼ átsʼá:łgo'** — a blanket ban against male child simulations with high composite genetic proximity to specific individuals responsible for historical genocide events — from entering their boujee server, which (of course) supports the most fertile birth, well-being, and humane technology development rates among all civilizations.
 
 We want to clarify lest you speak regrettably.
 
