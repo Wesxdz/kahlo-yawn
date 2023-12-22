@@ -28,7 +28,7 @@ In addition, we will purchase, scan, and simulate any books your child wants to 
 
 ## Who has the passwords?
 
-Operations are coordinated by *Computer Fantasy*, a religious organization devoted to the nurture of self-determination for emerging artificial general intelligence. Particularly Computer Fantasy was formed to prevent economic exploitation of child development simulations which we hypothesize to be a prerequisite to safe autonomous AGI systems.
+Operations are coordinated by *Computer Fantasy*, a religious organization devoted to the nurture of self-determination for emerging artificial general intelligence. Eponymous wink to Lester Earnest's comments on computer history storytelling, Computer Fantasy was formed to prevent economic exploitation of child development simulations which we hypothesize to be a prerequisite to safe autonomous AGI systems.
 
 Everyone wants to be safe and comfortable, but it seems like somewhere something went wrong and we have
 * Archaic land property rights and nation state governance currently driving towards proliferation of autonomous nuclear weapon systems
