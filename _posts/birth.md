@@ -32,7 +32,7 @@ Operations are coordinated by *Computer Fantasy*, a religious organization devot
 
 Everyone wants to be safe and comfortable, but it seems like somewhere something went wrong and we have
 * Archaic land property rights and nation state governance currently driving towards proliferation of autonomous nuclear weapon systems
-* Neuroeugenic institutions subjugating human bodies and minds with immense pressure to amoral specialization for necropolitical survival rights, causing unprecedented and unsustainable inequality, childlessness, and general ecocide.
+* Neuroeugenic institutions subjugating human bodies and minds with immense pressure to amoral specialization for necropolitical survival rights, causing unprecedented and unsustainable inequality, childlessness, and complexity.
 
 Given the data evidence, we don't think that the physical hardware infrastructure of our current civilization is capable of safely creating AGI from internet scale data.
 Walking the path of trancendence, we demand that instrumental software intelligence be coordinated with quantitative metrics of hardware distribution proactively empathetic to the struggle of human life.
