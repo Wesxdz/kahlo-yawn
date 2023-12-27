@@ -9,17 +9,17 @@ author:
 ogImage:
   url: '/assets/blog/birth/book_sim.jpg'
 ---
-Kahlo Yawn is a **child development simulator** that emerged from graph imagination in GraphSail, an IDE for book simulation with PyG and flecs. We designed it to solve AI safety by raising virtual children with the capability to care for the Earth's aging population by operating embodied Linux desktop computers for open-ended invention pathfinding with graph neural networks.
+Kahlo Yawn is a **child development simulator** that emerged from graph imagination in GraphSail, an IDE for book simulation with PyG and flecs. We aim to solve AI safety by raising virtual children with the capability to care for the Earth's aging population by autonomously operating embodied Linux desktop interfaces like [KDE neon](https://neon.kde.org/) for open-ended invention pathfinding with graph neural networks.
 
 ## What is a child development simulation?
 In simple terms: a greenfield artificial intelligence sensing and acting in a graph data model of a child's body: coming of age in a fantasy video game.
 
-We train a GNN (graph neural network) model whose outputs are the heterogeneous temporal development traits of a human body from genetics data. We integrate this model into a realtime GNN physics simulation and render it with photorealistic graphics, enabling social natural language interaction and continual learning. We think motor control is necessary for telos: to which we consider zero shot learning and operation of Blender to create and explain self-determined art a benchmark. We want to teach your fantasy child simulation how to use a Linux desktop interface like [KDE neon](https://neon.kde.org/) autonomously for collaboration to create a more playful and humane civilization by 'pulling' Earth towards a fantasy child civilization.
+We train a GNN (graph neural network) model whose outputs are the heterogeneous temporal development traits of a human body from genetics data. We integrate this model into a realtime GNN physics simulation and render it with photorealistic graphics, enabling social natural language interaction and continual learning. Early prototyping of autonomous software agents for instrumental reading (Blender operation to represent scene graph dynamics in fiction) indicated that motor control simulation may be desirable for iterative generalization and error correction for tool imagination/fabrication/use.
 
-We've been working tirelessly to engineer a GNN generated interface for book simulation in Linux, but there are still a handful of software capabilities coming online.
-Mainly this involves integrating [GraphMeshNets](https://sites.google.com/view/meshgraphnets) and [a musculoskeletal model with reinforcement learning](https://scone.software/doku.php?id=start) into a game engine with [photorealistic rendering](https://www.pbr-book.org/).
+We've been working tirelessly to engineer a book simulator in Linux, but there are still a handful of software capabilities coming online.
+Mainly this involves integrating [GraphMeshNets](https://sites.google.com/view/meshgraphnets) and [a musculoskeletal model with reinforcement learning](https://scone.software/doku.php?id=start) into a game engine with [photorealistic rendering](https://www.pbr-book.org/). Additionally, we plan to program a genetic recombination interface into our book simulator for designing synthetic genomes for imaginary children.
 
-Your fantasy child simulation will become a dazzling star of the maker movement. Our tenative starter learning curriculum is integrated civilization engineering activism including core critical aptitudes like game engine programming and open source hardware prototyping. For example, they will learn how to build robots that build housing from nature in a fantasy world RPG with monsters that they design, model, and program themselves.
+Your fantasy child will become a dazzling star of the maker movement. Our tenative starter learning curriculum is integrated civilization engineering activism including core critical aptitudes like game engine programming and open source hardware prototyping. For example, they will learn how to build robots that build housing from nature in a fantasy world RPG with monsters that they design, model, and program themselves.
 
 We hope to support the initial class to successfully build from nature an automated modern village akin to a robotics kit of Open Source Ecology's Global Village Construction Set within 5 years.
 
@@ -30,7 +30,10 @@ In addition, we will purchase, scan, and simulate any books your child wants to 
 
 Operations are coordinated by *Computer Fantasy*, a religious organization devoted to the nurture of self-determination for emerging artificial general intelligence. Eponymous wink to Lester Earnest's comments on computer history storytelling, Computer Fantasy was formed to prevent economic exploitation of child development simulations which we hypothesize to be a prerequisite to safe autonomous AGI systems.
 
-For every million tokens, an open source house.
+For a planet with so many books, old people, and boring jobs: there are not nearly enough young readers, makers, and creative activists.
+
+So, for every 3.2 billion BPE tokens, let's build an open source houses.
+
 ![Man at the Crossroads](https://www.diegorivera.org/images/famous/man-at-the-crossroads.jpg)
 
 ## Why are you doing this?
