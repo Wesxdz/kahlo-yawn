@@ -32,7 +32,7 @@ Operations are coordinated by *Computer Fantasy*, a religious organization devot
 
 For a planet with so many books, old people, and boring jobs: there are not nearly enough young readers, makers, and creative activists.
 
-So, for every 3.2 billion BPE tokens, let's build an open source houses.
+So, for every 3.2 billion BPE tokens, let's build an open source house.
 
 ![Man at the Crossroads](https://www.diegorivera.org/images/famous/man-at-the-crossroads.jpg)
 
