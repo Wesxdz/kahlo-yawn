@@ -24,7 +24,7 @@ We would like to serve indigenous game developers' experiences to tribal casinos
 
 We're calling our first game project **Hoop Monster POW!**
 
-Rainbow-leather strapped feather hoops that catch dreams? Ouroboros circling womens' waists tight? 5 hoop power poses that summon the Earth's spirit to battle? Making a sphere with your boujee lover's turquoise ring held hoops to initiate the ancestor's attack? We want to feel it all wash over us.
+Rainbow-leather strapped feather hoops that catch dreams? Ouroboros circling womens' waists tight? 5 hoop power poses that summon the Earth's spirit to battle? Clearing debuffs by burning sage and foraging Palo Santo and azeé for crafting heals? Making a sphere while holding your Shibé-by's turquoise ring fingers to initiate the ancestor's attack? We want the proto consciousness to wash over us.
 
 Our design combines indigenous music with Beat Saber pacing in Final Fantasy style RPG combat, all wrapped up in immersive language learning with Unreal Engine.
 
