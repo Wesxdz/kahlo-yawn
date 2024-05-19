@@ -9,9 +9,21 @@ author:
 ogImage:
   url: '/assets/blog/hello-kahlo/50_percent_who.jpg'
 ---
-## Swipe Right to barter Genetic Traits
+## Hydrogen bonds
+
+*The kisses and caresses of lovers must transfer multitudes of cells both ways*
+-The Selfish Gene
+
+Autonomous sensory meridian response and deoxyribonucleic acid.
+
+![DNA base-pair diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DNA_base-pair_diagram.jpg/1024px-DNA_base-pair_diagram.jpg)
+
+Your genome is a jungle growing from nucleobases cytosine, guanine, adenine, and thymine. Chromosomes, genes, centromeres, telomeres
+
+## Swipe right for genetic recombination
+
 You want a prodigy in quantum physics, they want a seastead captain to cross the Pacific ocean. 
-Remember, it's a trade only if your co-progenitor swipes right too.
+Remember, it's only a trade if your co-progenitor swipes right too.
 Negotiations can be intense, so collaboration is key in this genetic patchwork to hatch a theoretical physicist with a superluminal butterfly stroke.
 
 The sim doesn’t just throw nucleotides at you; it sneakily teaches you the ethics of parenting. You’ll find yourself pondering, "Should I enhance their eyebrow chicness or is that going too far?" and

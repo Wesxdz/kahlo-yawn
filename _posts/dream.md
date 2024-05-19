@@ -9,6 +9,9 @@ author:
 ogImage:
   url: '/assets/blog/dream/dream.png'
 ---
+*The precision and complexity of an eagle's eye or a swallow's swing couldn't emerge without clockwork rules for what is laid down when*
+-The Selfish Gene
+
 The prereqs for this blog post include Stanford's course CS224W Machine Learning with Graphs, MIT Early Childhood Cognition Lab's research, and Paphos Oneironautics's own GI201 Graph Imagination.
 
 We detect that you're not qualified to read this blog post.

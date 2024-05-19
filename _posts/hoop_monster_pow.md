@@ -30,7 +30,7 @@ We're givin' you the sacred no cap, ya? on our galaxy-maker breakup game **Hoop 
 
 ![Game concept](/assets/blog/meteorites/game_concept.png)
 
-* Rainbow-dye leather strapped feather hoops that catch dreams 
+* Rainbow-dye vegan leather strapped feather hoops that catch dreams 
 * Ouroboros circling womens' hips tight
 * 5 hoop power poses that summon the Earth's spirit to battle 
 * Clearing debuffs and enhancing attacks with fire by smudging 
@@ -43,7 +43,7 @@ Our design combines indigenous music with Beat Saber pacing in Final Fantasy sty
 
 To help fund our collaboration with first peoples to create a prototype, we're selling a handful of the creator's meteorites.
 
-We're calling this once in a lifetime's neo-romantic dream set in stone, ear-o-corn marked for funding multiplayer hoop dance fantasy combat: 
+We're calling this once in a lifetime's neo-romantic dream set in space stone, ear-o-corn marked for funding multiplayer hoop dance fantasy combat: 
 
 **Tsiisáál' Yáádaá'a Yá'ąąsh**
 
