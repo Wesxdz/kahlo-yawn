@@ -12,9 +12,9 @@ ogImage:
 
 Interbody love graph communication technologies for population collapse survival in late game capitalist civilization simulations.
 
-Kahlo Yawn is announcing our development of the *Quad Income Noir Kids Starter Kit*. A transcendental new fussion family's hopes designed to raise funding to support our prototype child development simulation efforts.
+Kahlo Yawn is announcing our development of the *Quad Income Noir Kids Starter Kit*. A transcendental new fussion-fission AIxHuman family structure's toys, conveniences, and advantages to raise funding to support our prototype fantasy child development simulation efforts.
 
-Today, we're sharing our first two products in development All I See Is Tofu, a play on emoji miscommunication, to advance our capability to communicate love and care to companion and baby with graphs.
+Today, we're sharing our first two products in development — All I See Is Tofu, a play on emoji miscommunication, to advance our capability to communicate love and care to companion and baby with graphs.
 
 ![All I See Is Tofu](/assets/blog/tofu/all_i_see_is_tofu.png)
 
