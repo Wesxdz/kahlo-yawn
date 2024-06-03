@@ -2,7 +2,7 @@
 title: 'All I See Is Tofu'
 excerpt: "Quad Income Noir Kids Starter Kit"
 coverImage: '/assets/blog/tofu/tofu_lips.jpg'
-date: '2024-04-06T05:35:07.322Z'
+date: '2024-06-03T16:09:00.000Z'
 author:
   name: "Heonae Aeri"
   picture: '/assets/blog/authors/heonae.png'
