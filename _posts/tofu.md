@@ -23,7 +23,7 @@ Today, we're sharing our first two products in development — All I See Is Tofu
 ### **Transmission Control Protocol Baby Maker Blindfold**
 
 Our first observer-participant-consumer item is a black charmeuse silk blindfold with three sequential custom evocative neo-romantic emoji patches.
-Designed to evoke emotions of overwhelming transcendental love from the void for a companion during intimate play. Server and client share ackowledgement.
+Designed to arouse emotions of overwhelming transcendental love from the void between server and client for encrypted acknowledgements of petabyte scale data transmissions.
 
 ![sleep(10)](/assets/blog/tofu/sleep10.png)
 
