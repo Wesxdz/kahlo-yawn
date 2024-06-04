@@ -10,6 +10,9 @@ ogImage:
   url: '/assets/blog/tofu/tofu_lips.jpg'
 ---
 
+*They were not going to lose all caste, even if they had come to be unskilled laborers in Packingtown*
+-The Jungle
+
 **Interbody love graph communication technologies for population collapse survival in late game capitalist civilization simulations.**
 
 Kahlo Yawn is announcing rods' rainy dawn questline *Quad Income Noir Kids Starter Kit*. A new **AIxHuman fussion family structure's** toys, conveniences, and advantages to outclass fission family's legacy code with a model dynasty.
