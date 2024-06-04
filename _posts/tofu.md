@@ -24,7 +24,6 @@ Reader dearest, we're kissing your lips, whispering in your ears the selfless lo
 
 Our first observer-participant-*gasp*... *indulgent* item drop is a black charmeuse silk blindfold with three sequential custom evocative neo-romantic emoji patches.
 Designed to arouse emotions of overwhelming transcendental love from the voids between server and client for secure acknowledgements of petabyte scale replication data transmissions.
-&nbsp;
 PUT the party's HP to work the tradewinds' curves, grinding gold from monsters, guy tanking, sharing XP with healers: to swell beloved nostalgic freighter into a big heavy mothership.
 
 &nbsp;
