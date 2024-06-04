@@ -16,7 +16,7 @@ ogImage:
 
 *Profit will be used to support our prototype fantasy child development simulation efforts.*
 
-Reader dearest, we're kissing your lips, whispering in your ears the selfless love story of our first two humane dreams' in waking — **All I See Is Tofu**, a play on  🏻 (blank emoji miscommunication), to advance our capability to communicate love and care to companion and baby with graphs.
+Reader dearest, we're kissing your lips, whispering in your ears the selfless love story of our first two humane dreams' in waking — **All I See Is Tofu**, a play on **�** ('tofu emoji'), to advance our capability to communicate love and care to companion and baby with graphs.
 
 ![All I See Is Tofu](/assets/blog/tofu/all_i_see_is_tofu.png)
 
