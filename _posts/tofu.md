@@ -45,4 +45,19 @@ With a graph neural network pacifier we'll experiment setting designer babies’
 
 *For those without a **2**, or unable to **5**, our child simulator is for your genes to survive — in a computer fantasy.*
 
-![tofu block](/assets/blog/tofu/tofu_block.webp)
+**Product devlog update 1 (6/9/24) - All I See is SVG**
+
+We've started on digital asset design for the emoji set.
+
+*0000 - Just More Tofu?*
+*0001 - Fantasy Baby Daydream on First Sight*
+
+Wanna become an emoji developer? Email me heonae@paphos.one
+
+![Emoji Dev](/assets/blog/tofu/emoji_dev.png)
+
+![Fantasy Baby Daydream on First Sight](/assets/blog/tofu/fantasy_love.png)
+
+Our current plan to prototype 8cm diameter shallow-plushie emojis (with kapok fiber fill stuffing) attached via three custom laser cut velcro patches.
+
+![Just More Tofu](/assets/blog/tofu/tofu_emoji.webp)
