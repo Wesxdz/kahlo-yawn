@@ -41,7 +41,7 @@ With a graph neural network pacifier we'll experiment setting designer babies’
 &nbsp;
 &nbsp;
 
-*For parties poor: Computer Fantasy's sister organization Paphos Oneironautics is developing a humane fintech product for investments in autonomous software inventors' lovers to invite **3** and **4**.*
+*For parties poor: Computer Fantasy's boyfriend corp Paphos Oneironautics is developing a humane fintech product for investments in autonomous software inventors' lovers to invite **3** and **4**.*
 
 *For those without a **2**, or unable to **5**, our child simulator is for your genes to survive — in a computer fantasy.*
 
