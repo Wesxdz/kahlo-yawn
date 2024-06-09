@@ -45,7 +45,7 @@ With a graph neural network pacifier we'll experiment setting designer babies’
 
 *For those without a **2**, or unable to **5**, our child simulator is for your genes to survive — in a computer fantasy.*
 
-**Product devlog update 1 (6/9/24) - All I See is SVG**
+**Product devlog update 1 (6/9/24) - All I See Is SVG**
 
 We've started on digital asset design for the emoji set.
 
