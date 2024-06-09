@@ -51,7 +51,7 @@ We've started on digital asset design for the emoji set.
 
 *0000 - Just More Tofu?*
 
-*0001 - Fantasy Baby Daydream on First Sight*
+*0001 - Fantasy Baby Daydream at First Sight*
 
 Wanna become an emoji developer? Email me heonae@paphos.one
 
