@@ -66,6 +66,6 @@ Our for-profit religious designer-girl mogul meetup for next week (perhaps at Ro
 
 *0002* - Yeah It's Another Tofu. What Are You Gonna Do, Slap My Smart Ass?
 
-![Spank](/assets/blog/tofu/spank.png)
+![Spank](/assets/blog/tofu/spank.webp)
 
-(Our future design aims to split the emojis between NSFW pleasure tofus and wholesome fantasy emojis)
+(Our future design aims to split the emojis between NSFW tofu pleasure that prevents thinking and wholesome fantasy emojis)
