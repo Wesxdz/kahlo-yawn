@@ -59,7 +59,13 @@ Wanna become an emoji developer? Email me heonae@paphos.one
 
 ![Fantasy Baby Daydream on First Sight](/assets/blog/tofu/fantasy_love.png)
 
-Our for-profit religious designer-girl mogul meetup for next week is to assemble a BOM and budget ready to prototype 8cm diameter shallow-plushie emojis (with kapok fiber fill stuffing) attached via three custom laser cut velcro patches.
+Our for-profit religious designer-girl mogul meetup for next week (perhaps at Rose City Coffee Co.) is to assemble a BOM and budget ready to prototype 8cm diameter shallow-plushie emojis (with kapok fiber fill stuffing) attached via three custom laser cut velcro patches.
 
 *Generate another image of tofu plushie. Make it more angry-sexy, kinda witty eyerolling, a tease. Unhinged detective tofu. Just More Tofu...*
 ![Just More Tofu](/assets/blog/tofu/tofu_emoji.webp)
+
+*0002* - Yeah It's Another Tofu. What Are You Gonna Do, Slap My Smart Ass?
+
+![Spank](/assets/blog/tofu/spank.png)
+
+(Our future design aims to split the emojis between NSFW pleasure tofus and wholesome fantasy emojis)
