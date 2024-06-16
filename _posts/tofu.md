@@ -71,3 +71,9 @@ Our for-profit religious designer-girl mogul meetup for next week (perhaps at Ro
 ![Spank](/assets/blog/tofu/spank.webp)
 
 (Our future design aims to split the emojis between NSFW tofu pleasure that prevents thinking and wholesome fantasy emojis)
+
+**Product devlog update 1 (6/16/24) - All I See Is AGI**
+
+*0003/0004* - Feel the AGI
+
+![Feel the AGI](/assets/blog/tofu/feel_the_agi.png)
