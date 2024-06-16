@@ -57,6 +57,8 @@ Wanna become an emoji developer? Email me heonae@paphos.one
 
 ![Emoji Dev](/assets/blog/tofu/emoji_dev.png)
 
+Swipe right to drool!
+
 ![Fantasy Baby Daydream on First Sight](/assets/blog/tofu/fantasy_love.png)
 
 Our for-profit religious designer-girl mogul meetup for next week (perhaps at Rose City Coffee Co.) is to assemble a BOM and budget ready to prototype 8cm diameter shallow-plushie emojis (with kapok fiber fill stuffing) attached via three custom laser cut velcro patches.
