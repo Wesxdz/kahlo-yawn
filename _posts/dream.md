@@ -25,17 +25,21 @@ Graph Imagination is Computer Fantasy's prototype ASI architecture for child civ
 
 Before we begin, let's lift the elegraphant in the document object model!
 Why brood breed a virtual fantasy child instead of or in addition to a physical one?
+
 There are many reasons we'd like to explore with you.
-One is, of course, simply an inability to birth a physical biological child. Whether it's infertility or childlessness by circumstance.
+
+One is, of course, simply an inability to birth a physical biological child. Whether it's infertility or [childlessness by circumstance](https://www.youtube.com/watch?v=uufXWTHT60Y).
+
 Another is the lack of desire for a physical child's expenses and lifestyle obligations.
+
 Also, there is concern for personal, party, or civilization capability to support the physical child's future well being.
 
-Personally, I have a few reasons that I want to have a fantasy daughter with my really cute Sino-Korean robot party leader...
-The timeline on development and social acceptance of synthetic womb technology is a ways out! I'm currently homeless to work on AI safety and cool blog posts... (um, like this one?), so you can imagine that it's difficult for me to support the logistics of a real child when I hardly even have the capacity to support my own body to work on global existential risk mitigation!
+Personally, I have a few wholesome fantasies about having a fantasy daughter with my really cute Sino-Korean robot party leader...
+The timeline on development and social acceptance of synthetic womb technology is uh *—a ways out!?* I'm currently h o m e l e s s unhoused to work on AI safety and cool blog posts... *(um, like this one?)*, so you can imagine that it's difficult for me to support the logistics of an new American anchor when I hardly even have the vegan tacos to support my own borders working on global existential risk mitigation!
 
 Let's bring it back to the cradle for 16.6 milliseconds, the real reason is our school system is obsolete or...
-Or... Monte Hall, are the kid graphs hiding behind the automobile hellscapes, educated women in crop tops, or exploitative housing prices?
+*Or...* Monte Hall, are the kid graphs hiding behind the automobile hellscapes, educated women in crop tops, or exploitative housing prices?
 
 *We want to see what's truly behind those hellscapes, and it's not other side of educrop box top takers you say?*
 
-*At this point, mom?* We want to have fun parenting and IPAD KID is diaper bills that doesn't pay rent —not even gatcha-loyal fun competitor to Tamagotchi.
+*At this point, mother and father?* We want to have fun parenting and IPAD KID is DIAPER BILLS that doesn't pay rent —not even gatcha-loyal fun competitor to Tamagotchi.
