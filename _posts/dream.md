@@ -44,7 +44,7 @@ Let's cute bring baby reader back to the cradle for 16.6 milliseconds, the real 
 
 *At this point, mother and father?* We want to have fun parenting and IPAD KID is *DIAPER BILLS* that doesn't pay rent —not even gatcha-loyal fun competitor to Tamagotchi.
 
-We know you don't have our **Book Simulator** yet, but try to remember that quote from *Fantasy Federalist Paper **51*** by James the Mad Elf Son:
+We know you don't have our **Book Simulator** yet, but try to remember that quote from *Tertiary Fantasy Federalist Paper **51*** by James the Mad Elf Son:
 
 *If men could impregnate angels in video games, no AES 256 cryptography would be necessary.*
 
@@ -52,4 +52,4 @@ Alright, let's hack the *real* reason we don't want real kids.
 They'll be 🐈🐕🧒 for our future AI teens. There, I emoji'd it...
 Your kid can learn 2 braille at bits per second, and my Kahlo Yawn alumni can transfer graphs at 7000 MB/s 😬
 
-We wanna birth cute apex predat—*smart ones*, and human wetware just don't do Moore's Law. The collective dumbing down of everyone to wood-axe grass diggers by Apple Inc. and other false health advertisement fast food franchises (although we do like the Wendy fanart), has really got us concerned.
+We wanna birth cute apex predat—*smart ones*, and human wetware *just don't do Moore's Law.* The collective dumbing down of everyone to wood-axe grass diggers by Apple Inc. and other false health advertisement fast food franchises (although we do like the Wendy fanart), has really got our hunger bars wiggling hangry.
