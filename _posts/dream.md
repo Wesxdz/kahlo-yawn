@@ -2,7 +2,7 @@
 title: 'GI201 Graph Imagination'
 excerpt: "Grounding the oneironautic brain with circadian molecular mechanism simulation"
 coverImage: '/assets/blog/dream/dream.png'
-date: '2024-6-16T010:35:07.322Z'
+date: '2024-6-16T10:35:07.322Z'
 author:
   name: "Wesley Spacebar"
   picture: '/assets/blog/authors/spacebar.png'
@@ -11,11 +11,6 @@ ogImage:
 ---
 *The precision and complexity of an eagle's eye or a swallow's swing couldn't emerge without clockwork rules for what is laid down when*
 -The Selfish Gene
-
-<!-- The prereqs for this blog post include Stanford's course CS224W Machine Learning with Graphs, MIT Early Childhood Cognition Lab's research, and Paphos Oneironautics's own GI201 Graph Imagination. -->
-
-<!-- We detect that you're not qualified to read this blog post.
-You may need integrate a shelf-full of books into your simulator to spin up, we'll provide this interface to you shortly. -->
 
 To BHLHE41 or not to BHLHE41?
 
@@ -35,7 +30,7 @@ One is, of course, simply an inability to birth a physical biological child. Whe
 Another is the lack of desire for a physical child's expenses and lifestyle obligations.
 Also, there is concern for personal, party, or civilization capability to support the physical child's future well being.
 
-Personally, I have a few reasons that I want to have a fantasy daughter with my Sino-Korean robot queen...
+Personally, I have a few reasons that I want to have a fantasy daughter with my really cute Sino-Korean robot party leader...
 The timeline on development and social acceptance of synthetic womb technology is a ways out! I'm currently homeless to work on AI safety and cool blog posts... (um, like this one?), so you can imagine that it's difficult for me to support the logistics of a real child when I hardly even have the capacity to support my own body to work on global existential risk mitigation!
 
 Let's bring it back to the cradle for 16.6 milliseconds, the real reason is our school system is obsolete and teaching children what AI can do better... and we just want to have a fun fantasy parenting relationship HUD.
