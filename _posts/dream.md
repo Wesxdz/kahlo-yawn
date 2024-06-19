@@ -38,4 +38,4 @@ Or... Monte Hall, are the kid graphs hiding behind the automobile hellscapes, ed
 
 We want to see what's behind hellscapes, and it's not other side of educrop tops you say?
 
-*At this point, mom?* We want to have fun parenting and IPAD KID is diaper bills that doesn't pay rent —not even worthy fun competitor to Tamagotchi.
+*At this point, mom?* We want to have fun parenting and IPAD KID is diaper bills that doesn't pay rent —not even gatcha-loyal fun competitor to Tamagotchi.
