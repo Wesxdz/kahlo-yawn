@@ -36,6 +36,6 @@ The timeline on development and social acceptance of synthetic womb technology i
 Let's bring it back to the cradle for 16.6 milliseconds, the real reason is our school system is obsolete or...
 Or... Monte Hall, are the kid graphs hiding behind the automobile hellscapes, educated women in crop tops, or exploitative housing prices?
 
-We want to see what's behind hellscapes, and it's not other side of educrop tops you say?
+*We want to see what's truly behind those hellscapes, and it's not other side of educrop box top takers you say?*
 
 *At this point, mom?* We want to have fun parenting and IPAD KID is diaper bills that doesn't pay rent —not even gatcha-loyal fun competitor to Tamagotchi.
