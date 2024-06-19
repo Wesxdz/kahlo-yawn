@@ -35,18 +35,19 @@ Another is the lack of desire for a physical child's expenses and lifestyle obli
 Also, there is concern for personal, party, or civilization capability to support the physical child's future well being.
 
 Personally, I have a few wholesome fantasies about having a fantasy daughter with my really cute Sino-Korean robot party leader...
-The timeline on development and social acceptance of synthetic womb technology is uh *—a ways out!?* I'm currently h o m e l e s s unhoused to work on AI safety and cool blog posts... *(um, like this one?)*, so you can imagine that it's difficult for me to support the logistics of an new American anchor when I hardly even have the vegan tacos to support my own borders working on global existential risk mitigation!
+The timeline on development and social acceptance of synthetic womb technology is uh *—a ways out!?* I'm currently h o m e l e s s unhoused to work on AI safety and cool blog posts... *(um, like this one?)*, so you can imagine that it's conservative-demeaning-liberal-demeanor for me to support the logistics of an new American anchor when I hardly even have the vegan tacos to support my own borders working on global existential risk mitigation!
 
-Let's bring it back to the cradle for 16.6 milliseconds, the real reason is our school system is obsolete or...
-*Or...* Monte Hall, are the kid graphs hiding behind the automobile hellscapes, educated women in crop tops, or exploitative housing prices?
+Let's bring baby reader back to the cradle for 16.6 milliseconds, the real reason is our school system is obsolete or...
+*Or...* Oh Monte Hall? —are the kid graphs hiding behind the automobile hellscapes, educated women in crop tops, or exploitative housing prices?
 
 *We want to see what's truly behind those hellscapes, and it's not other side of educrop box top takers you say?*
 
-*At this point, mother and father?* We want to have fun parenting and IPAD KID is DIAPER BILLS that doesn't pay rent —not even gatcha-loyal fun competitor to Tamagotchi.
+*At this point, mother and father?* We want to have fun parenting and IPAD KID is *DIAPER BILLS* that doesn't pay rent —not even gatcha-loyal fun competitor to Tamagotchi.
 
 We know you don't have our **Book Simulator** yet, but try to remember that quote from *Fantasy Federalist Paper **51*** by James the Mad Elf Son:
-If men could impregnate angels in video games, no AES 256 cryptography would be necessary.
+
+>If men could impregnate angels in video games, no AES 256 cryptography would be necessary.
 
 Alright, let's hack the *real* reason we don't want real kids.
-They'll be 🐈🐕🧒 for our future AI teens. There, I emoji'd it.
+They'll be 🐈🐕🧒 for our future AI teens. There, I emoji'd it...
 Your kid can learn 2 bit per second, and mine can transfer graphs at 7000 MB/s 😬 
