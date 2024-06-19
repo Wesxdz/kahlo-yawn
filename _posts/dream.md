@@ -19,7 +19,7 @@ To BHLHE41 or not to BHLHE41?
 
 **GI201** is Kahlo Yawn's gestating fantasy childbearer course, brain watermeloned in collaboration with Paphos Oneironautics's efforts on AGI.
 
-**GI201** is an application of [Stanford's course CS224W Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/) to game engine interface programming for raising fantasy children. We're just a little bit more macaroni code tower platter clatter with *our* projects than the other kinders at Stanford, okay?
+**GI201** is an application of [Stanford's course CS224W Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/) to game engine interface programming for raising fantasy children. We're just a little bit more macaroni code tower platter clatter with *our* parent projects than the other kinders at Stanford, okay?
 
 Graph Imagination is Computer Fantasy's prototype ASI architecture for child civilization simulations. Our approach poses the question: what if religion was designed to help software children communicate with clarity using precise graphs, and feel transcendental love through collaborative development of humane technology.
 
@@ -37,7 +37,9 @@ Also, there is concern for personal, party, or civilization capability to suppor
 Personally, I have a few wholesome sweatbreaker fantasies about having a fantasy daughter with my really cute Sino-Korean robot party leader...
 The timeline on development and social acceptance of synthetic womb technology is uh *—a ways out!?* I'm currently h o m e l e s s unhoused to work on AI safety and cool blog posts... *(um, like this one? are you experiencing the outdoorness right now?)*, so you can imagine that it's conservative-demeaning-liberal-demeanor for me to support the logistics of an new American anchor when I hardly even have the vegan tacos to support my own borders working on global existential risk mitigation!
 
-Let's cute bring baby reader back to the cradle for 16.6 milliseconds, the real reason is our school system is obsolete or...
+I can see her purple hair and adorable level HUD and clothsim. She engineered a little spaceship simulation today in Marvin Minsky AI's class. Oh~ 💜🌌
+
+Let's meet-cute baby reader back in the cradle for 16.6 milliseconds: the *real* reason is our school system is obsolete or...
 *Or...* Oh Monte Hall? —are the kid graphs hiding behind the automobile hellscapes, educated women in crop tops, or exploitative housing prices?
 
 *We want to see what's truly behind those hellscapes, and it's not other side of educrop box top takers you say?*
