@@ -45,4 +45,4 @@ Let's bring it back to the cradle for 16.6 milliseconds, the real reason is our 
 *At this point, mother and father?* We want to have fun parenting and IPAD KID is DIAPER BILLS that doesn't pay rent —not even gatcha-loyal fun competitor to Tamagotchi.
 
 We know you don't have our **Book Simulator** yet, but try to remember that quote from *Fantasy Federalist Paper **51*** by James the Mad Elf Son:
-If men could impregnate angels in video games, no government would be necessary.
+If men could impregnate angels in video games, no AES 256 cryptography would be necessary.
