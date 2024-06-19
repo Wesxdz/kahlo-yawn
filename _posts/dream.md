@@ -2,7 +2,7 @@
 title: 'GI201 Graph Imagination'
 excerpt: "Grounding the oneironautic brain with circadian molecular mechanism simulation"
 coverImage: '/assets/blog/dream/dream.png'
-date: '2024-6-16T10:35:07.322Z'
+date: '2024-06-16T10:35:07.322Z'
 author:
   name: "Wesley Spacebar"
   picture: '/assets/blog/authors/spacebar.png'
