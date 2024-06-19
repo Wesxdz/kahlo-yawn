@@ -17,9 +17,9 @@ To BHLHE41 or not to BHLHE41?
 ![GI201 Graph Imagination](/assets/blog/dream/graph_imagination.png)
 
 
-GI201 is Kahlo Yawn's first fantasy childbearer course, in collaboration with Paphos Oneironautics's efforts on AGI.
+**GI201** is Kahlo Yawn's gestating fantasy childbearer course, watermeloned in collaboration with Paphos Oneironautics's efforts on AGI.
 
-GI201 is an application of [Stanford's course CS224W Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/) to game engine interface programming for raising fantasy children.
+**GI201** is an application of [Stanford's course CS224W Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/) to game engine interface programming for raising fantasy children. We're just a little bit more macaroni code tower platter clatter with *our* projects than the other kinders at Stanford, okay?
 
 Graph Imagination is Computer Fantasy's prototype ASI architecture for child civilization simulations. Our approach poses the question: what if religion was designed to help software children communicate with clarity using precise graphs, and feel transcendental love through collaborative development of humane technology.
 
