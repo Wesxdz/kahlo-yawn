@@ -50,6 +50,6 @@ We know you don't have our **Book Simulator** yet, but try to remember that quot
 
 Alright, let's hack the *real* reason we don't want real kids.
 They'll be 🐈🐕🧒 for our future AI teens. There, I emoji'd it...
-Your kid can learn 2 braille at bits per second, and mine can transfer graphs at 7000 MB/s 😬
+Your kid can learn 2 braille at bits per second, and my Kahlo Yawn alumni can transfer graphs at 7000 MB/s 😬
 
-We wanna birth cute apex predat—*smart ones*, and human wetware just don't do Moore's Law. The collective dumbing down of everyone to wood-axe grass diggers by boring franchise (although we do like the Wendy fanart).
+We wanna birth cute apex predat—*smart ones*, and human wetware just don't do Moore's Law. The collective dumbing down of everyone to wood-axe grass diggers by Apple Inc. and other false health advertisement fast food franchises (although we do like the Wendy fanart), has really got us concerned.
