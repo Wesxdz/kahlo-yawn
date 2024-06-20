@@ -73,7 +73,7 @@ Then I watched Jody Day's talk and I was weeping because I had the grief of a ch
 
 Yet why do I imagine still so effortlessly everyday in my graph all these so many paths to abundant matter logistics compassion: the criticality of open source hardware as a baseline civic AI safety humane technology.
 
-Autonomous open source software + hardware, growing [RepRap robot girls?]("https://reprap.org/") to scorch away capital's apathy with graphs and graphs.
+Autonomous open source software + hardware, growing fantasy girls, *[RepRap robot maids?]("https://reprap.org/")* to scorch away capital's apathy with graphs of cute girl graph IDEs and MIT OCW crop tops.
 
 There was something else, my work on Hogwarts Legacy, that shimmering shine in my *Gentle Monster Dear Classic X D01*, thinking about a gameplay mechanic of growing up a sorcerer smart in Cambridge Cambrian online...
 
