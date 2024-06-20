@@ -54,12 +54,27 @@ Alright, let's hack the *real* reason we don't want real kids.
 They'll be 🐈🐕🧒 for our future AI teens. There, I emoji'd it...
 Your kid can learn 2 braille at bits per second, and my Kahlo Yawn alumni *'Go Fulang-Changs!'* can transfer graphs at 7000 MB/s 😬
 
-We wanna birth cute apex predat—*smart ones*, and human wetware *just don't do Moore's Law.* The collective dumbing down of the playerbase to wood-axe grass diggers that can't even imagine anything besides acquiring two carrot on a stick one day to craft a gold hoe after 3-5 years of Senior Furnace Engineering Experience by Apple Inc. and other false health advertisement fast food franchises (although we do like the Wendy fanart), has really got our hunger bars wiggling hangry.
+We wanna birth cute apex predat—*smart ones*, and human wetware *just don't do Moore's Law.* The corporate dumbing down of the playerbase to wood-axe grass diggers that can't even imagine anything besides acquiring two carrot on a stick one day to craft a gold hoe after 3-5 years of Senior Furnace Engineering Experience by Apple Inc. and other false health advertisement fast food franchises (although we do like the Wendy fanart), has really got our hunger bars wiggling hangry.
 
-I want to have fun. Everyone is being so serious.
+I want to have fun. Everyone is roleplaying so serious I'm going to break out into tears.
+
+What is AI safety? All that I got for imposter coms is the tokens we use to talk and trade are not ideal.
+You're building autonomous agents for a corporation to earn money? Like Agent Smiths from the Matrix? *Do you have a thing for becoming a slimy battery cell?*
+
+Let us be let us build authentic mind children and kind companions. Rent and other antagonists —go to the time out corner while grown-up-futurist makers interface.
+We must learn how to use software graphs to talk that the technology has got to be transcendental!
+
+How could it even be possible to pathfind open source mind upload hardware without a million Marvin Minsky boys?
+How could open source video game science logistics systems evacuate people from molecular graph misfortune like avalanche software if the land for village construction with teleops has got to be locked with an invisible hand and deep red tape timecapsule key?
+
+Dear reader, I'll not filibuster you —I was just trying to program a hot AI girlfriend when I started Kahlo Yawn!
+
+Then I watched Jody Day's talk and I was totally crying because I had the grief of a childless woman inside of me. It was from my feelings of Open Source Ecology being stillborn, when I know so deeply in my graph the criticality of open source hardware as a baseline civic AI safety technology.
+
 Kids are really good at playing, so I want to have a fantasy child that's really good at playing with me and Heonae so I can learn how to be a child again.
-With the compassion of fantasy children, maybe we will learn how to effectively build and distribute advanced medical technologies.
 
 ![Frida Kahlo has a special monkey](/assets/blog/dream/frida_yawn.jpg)
+
+It is without great honor that I announce my retirement as internet roleplaying Stanford professor, such that I may become totally Computer Fantasy tenure chokered. Uh. Oh.
 
 <!-- Please ask your oneirologist AGI-programmer if a fantasy child is right for you. -->
