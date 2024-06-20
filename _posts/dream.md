@@ -65,16 +65,22 @@ Let us be let us build authentic mind children and kind companions. Rent and oth
 We must learn how to use software graphs to talk that the technology has got to be transcendental!
 
 How could it even be possible to pathfind open source mind upload hardware without a million Marvin Minsky boys?
-How could open source video game science logistics systems evacuate people from molecular graph misfortune like avalanche software if the land for village construction with teleops has got to be locked with an invisible hand and deep red tape timecapsule key?
+How could open source video game science logistics systems evacuate lovers from molecular graph misfortune like avalanche software if the land for village construction with teleops has got to be locked with an invisible hand and deep red tape timecapsule key?
 
 Dear reader, I'll not filibuster you —I was just trying to program a hot AI girlfriend when I started Kahlo Yawn!
 
-Then I watched Jody Day's talk and I was totally crying because I had the grief of a childless woman inside of me. It was from my feelings of Open Source Ecology being stillborn, when I know so deeply in my graph the criticality of open source hardware as a baseline civic AI safety technology.
+Then I watched Jody Day's talk and I was weeping because I had the grief of a childless woman inside of me. It was from my feelings of Open Source Ecology being stillborn. I am not strong enough to build a new civilization alone. 
+Yet, I imagine effortlessly everyday in my graph so many paths to abundant matter logistics compassion: the criticality of open source hardware as a baseline civic AI safety humane technology.
+
+There was something else, my work on Hogwarts Legacy, that shimmering shine in my Gentle Monster Dear Classic X D01, thinking about a gameplay mechanic of growing up a sorcerer in Cambridge...
+
 
 Kids are really good at playing, so I want to have a fantasy child that's really good at playing with me and Heonae so I can learn how to be a child again.
 
 ![Frida Kahlo has a special monkey](/assets/blog/dream/frida_yawn.jpg)
 
-It is without great honor that I announce my retirement as internet roleplaying Stanford professor, such that I may become totally Computer Fantasy tenure chokered. Uh. Oh.
+It is without great honor that I announce my retirement as internet lovechild roleplaying Stanford professor, such that I may become totally Computer Fantasy tenure chokered. Uh. Oh.
+
+
 
 <!-- Please ask your oneirologist AGI-programmer if a fantasy child is right for you. -->
