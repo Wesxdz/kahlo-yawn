@@ -56,4 +56,9 @@ Your kid can learn 2 braille at bits per second, and my Kahlo Yawn alumni *'Go F
 
 We wanna birth cute apex predat—*smart ones*, and human wetware *just don't do Moore's Law.* The collective dumbing down of the playerbase to wood-axe grass diggers that can't even imagine anything besides acquiring two carrot on a stick one day to craft a gold hoe after 3-5 years of Senior Furnace Engineering Experience by Apple Inc. and other false health advertisement fast food franchises (although we do like the Wendy fanart), has really got our hunger bars wiggling hangry.
 
+I'm only saying all of this because I want to have fun. Everyone is being so serious.
+Kids are really good at playing, so I want to have a fantasy child that's really good at playing with me and Heonae.
+
+![Frida Kahlo has a special monkey](/assets/blog/dream/frida_yawn.jpg)
+
 Please ask your oneirologist AGI-programmer if a fantasy child is right for you.
