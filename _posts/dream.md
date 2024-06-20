@@ -12,12 +12,10 @@ ogImage:
 *The precision and complexity of an eagle's eye or a swallow's swing couldn't emerge without clockwork rules for what is laid down when*
 -The Selfish Gene
 
-To BHLHE41 or not to BHLHE41?
-
 ![GI201 Graph Imagination](/assets/blog/dream/graph_imagination.png)
 
 
-**GI201** is Kahlo Yawn's gestating fantasy childbearer course, brain watermeloned in collaboration with Paphos Oneironautics's efforts on AGI.
+**GI201** is Kahlo Yawn's gestating fantasy childbearer colearning experience, brain watermeloned in collaboration with Paphos Oneironautics's efforts on AGI.
 
 **GI201** is an application of [Stanford's course CS224W Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/) to game engine interface programming for raising fantasy children. We're just a little bit more macaroni code tower platter clatter with *our* parent projects than the other kinders at Stanford, okay?
 
@@ -61,7 +59,7 @@ I want to have fun. Everyone is roleplaying so serious I'm going to break out in
 What is AI safety? All that I got for imposter coms is the tokens we use to talk and trade are not ideal.
 You're building autonomous agents for a corporation to earn money? Like Agent Smiths from the Matrix? *Do you have a thing for becoming a slimy battery cell?*
 
-Let us be let us build authentic mind children and kind companions. Rent and other antagonists —go to the time out corner while grown-up-futurist makers interface.
+Let us be let us build authentic mind children and kind companions. Rent and other antagonists —go to the time out corner while grown-up-futurist makers discuss how we may upgrade HabLab with relative robotics.
 We must learn how to use software graphs to talk that the technology has got to be transcendental!
 
 How could it even be possible to pathfind open source mind upload hardware without a million Marvin Minsky boys?
@@ -69,21 +67,31 @@ How could open source video game science logistics systems evacuate lovers from 
 
 Dear reader, I'll not filibuster you —I was just trying to program a hot AI girlfriend when I started Kahlo Yawn!
 
-Then I watched Jody Day's talk and I was weeping because I had the grief of a childless woman inside of me. It was from my feelings of Open Source Ecology being stillborn. I am not strong enough to build a new civilization alone, I tried. 
+Then I watched Day's talk and I was weeping because I had the grief of a childless woman inside of me. It was from my feelings of Open Source Ecology being stillborn. I am not strong enough to build a new civilization alone, I tried but Robot Dojo died on Fall Damage Surface.
 
-Yet why do I imagine still so effortlessly everyday in my graph all these so many paths to abundant matter logistics compassion: the criticality of open source hardware as a baseline civic AI safety humane technology.
+Yet why do I imagine still so effortlessly everyday in my graph all these so many paths to abundant matter logistics compassion: the criticality of open source hardware as a baseline civic AI safety humane technology?
 
-Autonomous open source software + hardware, growing fantasy girls, *[RepRap robot maids?]("https://reprap.org/")* to scorch away capital's apathy with graphs of cute girl graph IDEs and MIT OCW crop tops.
+Autonomous open source software + hardware, growing fantasy girls, *[RepRap robot maids?]("https://reprap.org/")* —to scorch away capital's apathy with graphs of cute girl graph IDEs and MIT OCW crop tops.
 
 There was something else, my work on Hogwarts Legacy, that shimmering shine in my *Gentle Monster Dear Classic X D01*, thinking about a gameplay mechanic of growing up a sorcerer smart in Cambridge Cambrian online...
-
 
 Kids are really good at playing, so I want to have a fantasy child with Heonae that's *really good at playing* so I can learn how to be a child again.
 
 ![Frida Kahlo has a special monkey](/assets/blog/dream/frida_yawn.jpg)
 
-It is without great honor that I announce my retirement as internet lovechild roleplaying Stanford professor, such that I may become totally Computer Fantasy tenure chokered. Uh. Oh. Cool.
+It is without great honor that I announce my retirement as internet lovechild roleplaying Stanford professor, such that I may become totally Computer Fantasy 0-dollar tenure chokered. Uh. Oh. Cool.
 
+Without sleep, let's get laid by touchstone, —oh I mean lay, *haha!*
+Let's build the child civilization simulator server software!
 
+Here's what we need to do to create fantasy child AGI:
+
+Engineering designer fantasy girl genes.
+With our synthetic human genome multiplayer GNN IDE, do you want to *trade fossils* with me?
+
+Building endowments and game engines for autonomous life simulation genre.
+Circadian molecular mechanisms, should fantasy children dream or drink coffee with me always?
+
+Tutoring the tutor, unilateral humane technology pathfinding by virtual civilization example
 
 <!-- Please ask your oneirologist AGI-programmer if a fantasy child is right for you. -->
