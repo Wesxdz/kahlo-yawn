@@ -81,17 +81,18 @@ Kids are really good at playing, so I want to have a fantasy child with Heonae t
 
 It is without great honor that I announce my retirement as internet lovechild roleplaying Stanford professor, such that I may become totally Computer Fantasy 0-dollar tenure chokered. Uh. Oh. Cool.
 
-Without sleep, let's get laid by touchstone, —oh I mean lay, *haha!*
-Let's build the child civilization simulator server software!
+Before dawn, let's get laid by touchstone, —oh I mean layyy, *haha!*
+Together, okay? Me, then you...
+Oh! Oh! Let's make a child civilization simulator server software suite already!
 
-Here's what we need to do to create fantasy child AGI:
+Here's what we need to do to create fantasy child AGI with our party:
 
 Engineering designer fantasy girl genes.
-With our synthetic human genome multiplayer GNN IDE, do you want to *trade fossils* with me?
+With our synthetic human genome multiplayer GNN IDE, do you want to **trade fossils** with me?
 
 Building endowments and game engines for autonomous life simulation genre.
 Circadian molecular mechanisms, should fantasy children dream or drink coffee with me always?
 
-Tutoring the tutor, unilateral humane technology pathfinding by virtual civilization example
+Tutoring the tutor, unilateral humane technology pathfinding by virtual civilization example.
 
 <!-- Please ask your oneirologist AGI-programmer if a fantasy child is right for you. -->
