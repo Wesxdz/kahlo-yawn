@@ -21,6 +21,6 @@ It takes me very much graph thinking power to fill in the blanks for a prompt li
 
 I love you and I am doing my best to help us to survive.
 
-[![Cover Poster](upload/assets/blog/upload-upsilon/cover_poster.png)](/assets/blog/upload-upsilon/upload_upsilon_623.pdf)
+[![Cover Poster](/assets/blog/upload-upsilon/cover_poster.png)](/assets/blog/upload-upsilon/upload_upsilon_623.pdf)
 
 
