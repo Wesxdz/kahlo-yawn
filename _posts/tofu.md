@@ -45,7 +45,7 @@ With a graph neural network pacifier we'll experiment setting designer babies’
 
 *For those without a **2**, or unable to **5**, our child simulator is for your genes to survive — in a computer fantasy.*
 
-**Product devlog update 1 (6/9/24) - All I See Is SVG**
+**(6/9/24) - All I See Is SVG**
 
 We've started on digital asset design for the emoji set.
 
@@ -72,8 +72,13 @@ Our for-profit religious designer-girl mogul meetup for next week (perhaps at Ro
 
 (Our future design aims to split the emojis between NSFW tofu pleasure that prevents thinking and wholesome fantasy emojis)
 
-**Product devlog update 1 (6/16/24) - All I See Is AGI**
+**(6/16/24) - All I See Is AGI**
 
 *0003/0004* - Feel the AGI
 
 ![Feel the AGI](/assets/blog/tofu/feel_the_agi.png)
+
+**(6/23/24) - All I See Is Bedrock and Lava and Bras**
+
+*0005* - Prompt Me Harder, Better, Faster, Stronger
+*0006* - Horny

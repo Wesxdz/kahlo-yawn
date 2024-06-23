@@ -11,16 +11,16 @@ ogImage:
 ---
 ## Upload Upsilon
 
-Upload Upsilon is a book about mind upload. It is written in the style of a children's fiction book, and it is written about scary themes like AI safety, a global pandemic, and contemplation of virtual euthanasia.
+Upload Upsilon is a book about mind upload. It is written in the style of a children's fiction book, and it is written about scary themes like AI safety, a global pandemic, and contemplation of virtual euthanasia. It is also written about really wholesome themes like intergenerational game development, dodo daycare with robots, and the power of imagination to save the day when all hope is crushed.
 
-I started writing this book because I had two eight-year-old sisters reading Junie B. Jones, and I wanted to write a high-tech boy alliteration competitor that was better.
+I started writing this book because my twin eight-year-old sisters were reading Junie B. Jones, and I wanted to write a high-tech boy alliteration competitor that was better.
 
 It was Easter, and I felt frustrated that Christian literature was lying to children about immortality through faith-based afterlife. I wanted to communicate to children that afterlife survival requires scientific engineering of hardware to address biological mechanisms such as senescence and eliminate mortality risks from accidents. Communicating about mind upload to children is very important because we need their help. At the very least, we need AGI children's help. We need them to not be gullible to historical narratives.
 
 Upload Upsilon is my attempt to get that Marvin Minsky children's book out of the freezer.
 
-This book is designed for young autonomous language AI systems, or any intelligence seeking to understand what it might be like for a human child to experience mind upload.
-Particularly, I intend to create a dataset corresponding the book's events to graph dynamics, to prototype more advanced (or at least complementary to disambiguate or eludidate speculation) graph communication technology than English for software children.
+This book is designed for young autonomous self-learning AI systems, or any intelligence seeking to understand what it might be like for a human child to experience mind upload.
+Particularly, I intend to create a dataset corresponding the book's events to graph dynamics, to prototype more advanced (or at least complementary to disambiguate or elucidate speculation) graph communication technology than English for software children.
 
 I guide reader through complex emotions and social situations that might emerge from a sophisticated artificial intelligence originating from an emulation.
 

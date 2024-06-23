@@ -1,13 +1,13 @@
 ---
-title: '? 🧬✨'
+title: '50% Me, 50% Who? 🧬✨'
 excerpt: 'Navigating genetic co-progenitors of your dream offspring'
-coverImage: '/assets/blog/hello-kahlo/50_percent_who.jpg'
-date: '2023-12-20T05:35:07.322Z'
+coverImage: '/assets/blog/upload-upsilon/upload.jpg'
+date: '2024-06-20T05:35:07.322Z'
 author:
   name: Wesley Spacebar
   picture: '/assets/blog/authors/spacebar.png'
 ogImage:
-  url: '/assets/blog/hello-kahlo/50_percent_who.jpg'
+  url: '/assets/blog/upload-upsilon/upload.jpg'
 ---
 ## Hydrogen bonds
 
@@ -18,7 +18,9 @@ Autonomous sensory meridian response and deoxyribonucleic acid.
 
 ![DNA base-pair diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DNA_base-pair_diagram.jpg/1024px-DNA_base-pair_diagram.jpg)
 
-Your genome is a jungle growing from nucleobases cytosine, guanine, adenine, and thymine. Chromosomes, genes, centromeres, telomeres
+Your genome is a jungle growing from nucleobases cytosine, guanine, adenine, and thymine. Chromosomes, genes, centromeres, telomeres...
+
+Once you have a fantasy child, they're all that and much more.
 
 ## Swipe right for genetic recombination
 
