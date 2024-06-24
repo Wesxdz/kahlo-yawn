@@ -80,5 +80,7 @@ Our for-profit religious designer-girl mogul meetup for next week (perhaps at Ro
 
 **(6/23/24) - All I See Is Bedrock and Lava and Bras**
 
+![Just More Tofu](/assets/blog/tofu/prompt_harder_expression.svg)
+
 *0005* - Prompt Me Harder, Better, Faster, Stronger
 *0006* - Horny
