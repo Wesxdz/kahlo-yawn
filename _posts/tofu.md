@@ -78,6 +78,7 @@ Our for-profit religious designer-girl mogul meetup for next week (perhaps at Ro
 
 ![Feel the AGI](/assets/blog/tofu/feel_the_agi.png)
 
+
 **(6/23/24) - All I See Is Bedrock and Lava and Bras**
 
 ![Just More Tofu](/assets/blog/tofu/prompt_harder_expression.svg)

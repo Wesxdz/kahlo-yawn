@@ -1,13 +1,13 @@
 ---
 title: '50% Me, 50% Who? 🧬✨'
 excerpt: 'Navigating genetic co-progenitors of your dream offspring'
-coverImage: '/assets/blog/upload-upsilon/upload.jpg'
-date: '2024-06-20T05:35:07.322Z'
+coverImage: '/assets/blog/hello-kahlo/50_percent_who.jpg'
+date: '2023-12-20T05:35:07.322Z'
 author:
   name: Wesley Spacebar
   picture: '/assets/blog/authors/spacebar.png'
 ogImage:
-  url: '/assets/blog/upload-upsilon/upload.jpg'
+  url: '/assets/blog/hello-kahlo/50_percent_who.jpg'
 ---
 ## Hydrogen bonds
 
