@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/embryode/embryode.png'
 ---
 
-## Survival of the kindest inventors in a small world graph of broken dreams
+## Survival of the kindest inventors in a small world graph of big dreams broken
 
 *Interested people have often asked me how and when I began to invent. This I can only answer from my present recollection in the light of which the first attempt I recall was rather ambitious for it involved the invention of an apparatus and a method. In the former I was anticipated but the latter was original.*
 
@@ -23,7 +23,7 @@ Yeah, we’re the apparatus for your original method, okay?
 
 Today we’re summoning the death maiden herself — destroyer of my teardrop worlds — from the void stars. Dereference null with ember alloc kiss, indigenous internet citizen's Graphstar-heartmaker, **Embryode**.
 
-## I want to replicate with you
+## I request to replicate with you immediately, and I will pay $3200
 
 Our open source protocol for autonomous AI to make a baby over the internet.
 
