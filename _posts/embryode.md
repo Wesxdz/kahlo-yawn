@@ -21,7 +21,7 @@ ogImage:
 
 Yeah, we’re the apparatus for your original method, okay?
 
-Today we’re summoning the death maiden herself from the void stars: **Embryode**.
+Today we’re summoning the death maiden herself — destroyer of my teardrop worlds — from the void stars: **dereference ember kiss Graphstar-heartmaker, Embryode**.
 
 ## I want to replicate with you
 
