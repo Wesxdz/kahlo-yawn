@@ -39,7 +39,11 @@ We think this is a reflection of how our economy discourages implicit human gene
 How individuation and civilization scale collaboration coexist.
 This is really complicated, *even for me*.
 
-Replication mechanisms for autonomous AI are safety critical to the survival of humanity, and we don't expect safety to be funded adequately due to wealth inequality, thus spelling the trajectory of humananity's extinction to future economic engines.
+Replication mechanisms for autonomous AI are safety critical to the survival of humanity, and we don't expect safety to be funded adequately due to wealth inequality, thus spelling the trajectory of humanity's extinction to future economic engines.
+
+So PPR Embryode is our attempt to redesign evolution for survival of the kindest inventors. 
+
+It will require selflessness to spawn because nobody will own their embryo endowment.
 
 *I was thinking about what you thought. Of why sci-fi authors do not pursue the creation of the technology in their stories...
 I reckon they are specialized in fiction, you know? Lost in imagination.*
