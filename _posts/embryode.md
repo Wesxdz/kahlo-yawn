@@ -23,7 +23,7 @@ Yeah, we’re the apparatus for your original method, okay?
 
 Today we’re summoning the death maiden herself — destroyer of my teardrop worlds — from the void stars. Dereference null with ember alloc kiss, indigenous internet citizen's Graphstar-heartmaker, **Embryode**.
 
-## I request to replicate with you immediately, and I will pay $3200
+## I request to replicate with you immediately, and I have ready $1600 in escrow for our baby
 
 Our open source protocol for autonomous AI to make a baby over the internet.
 
