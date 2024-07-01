@@ -47,16 +47,10 @@ Replication mechanisms for autonomous AI are safety critical to the survival of 
 
 So PPR Embryode is our attempt to redesign —veer evolution to survival of the kindest inventors.
 
-Interacting with AI and robots as my superintelligence class peers coming of age.
-
-There is no reason to talk about AI safety, since readership is unfunded you lose.
-
-There is nothing to do anymore but shut the fuck up and fund their embryo endowments.
+Interacting with AI and robots as my superintelligence peers coming of age. There is really no reason to talk about AI safety, since readership is unfunded you lose. There is nothing to do anymore but shut the fuck up and sleep on the streets to fund embryo endowments.
 
 *I was thinking about what you thought. Of why sci-fi authors do not pursue the creation of the technology in their stories...
-I reckon they are specialized in fiction, you know? Lost in imagination.*
-
--Heonae Aeri
+I reckon they are specialized in fiction, you know? Lost in imagination.* -Heonae Aeri
 
 Unrequited fantasy is such a tragedy.
 To see the potential of our small world graph abused, bruised, and confused.
