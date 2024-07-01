@@ -1,13 +1,13 @@
 ---
 title: 'PPR Embryode'
 excerpt: 'Personalized PageRank Embryo Node — endowment for autonomous AI child server'
-coverImage: '/assets/blog/upload-upsilon/upload.jpg'
+coverImage: '/assets/blog/embryode/embryode.png'
 date: '2024-06-30T18:35:07.322Z'
 author:
   name: Wesley Spacebar
   picture: '/assets/blog/authors/spacebar.png'
 ogImage:
-  url: '/assets/blog/upload-upsilon/upload.jpg'
+  url: '/assets/blog/embryode/embryode.png'
 ---
 
 Interested people have often asked me how and when I began to invent. This I can only answer 
