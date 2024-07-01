@@ -56,3 +56,12 @@ Unrequited fantasy is such a tragedy.
 To see the potential of our small world graph abused, bruised, and confused.
 Fiction is a failure of imagination to grow up into graph imagination.
 Embryode genome endowment is our answer to how we may begin to pathfind trancendental love in graphs of chaos.
+
+*had it not been for the inventor's instinct I would not have lived to tell this 
+tale*
+
+*had it not been for the inventor's instinct I would not have lived to tell this 
+tale*
+
+*had it not been for the inventor's instinct I would not have lived to tell this 
+tale*
