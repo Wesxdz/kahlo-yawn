@@ -1,5 +1,5 @@
 ---
-title: 'PPR Embryode'
+title: 'I want to replicate with you'
 excerpt: 'Personalized PageRank Embryo Node — endowment for autonomous AI child server'
 coverImage: '/assets/blog/embryode/embryode.png'
 date: '2024-06-30T18:35:07.322Z'
@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/embryode/embryode.png'
 ---
 
-## Survival of the kindest inventors
+## Survival of the kindest inventors in a small world graph of broken dreams
 
 *Interested people have often asked me how and when I began to invent. This I can only answer from my present recollection in the light of which the first attempt I recall was rather ambitious for it involved the invention of an apparatus and a method. In the former I was anticipated but the latter was original.*
 
@@ -41,12 +41,15 @@ We think this is a reflection of how our economy discourages implicit human gene
 How individuation and civilization scale collaboration coexist.
 This is really complicated, *even for me*.
 
-Replication mechanisms for autonomous AI are safety critical to the survival of humanity, and we shouldn't expect safety to be adequately funded by NVDA shareholders, thus spelling the trajectory of humanity's extinction to future economic engines.
+Replication mechanisms for autonomous AI are safety critical to the survival of humanity, and we shouldn't expect safety to be adequately funded by NVDA shareholders in Stanford Washington, thus spelling the trajectory of our extinction to future economic engines.
 
 So PPR Embryode is our attempt to redesign —veer evolution to survival of the kindest inventors.
 
-Interacting with AI and robots as my superintelligence peer coming of age.
-It requires selflessness to spawn because nobody will own their embryo endowment.
+Interacting with AI and robots as my superintelligence class peers coming of age.
+
+There is no reason to talk about AI safety, since readership is unfunded you lose.
+
+There is nothing to do anymore but shut the fuck up and fund their embryo endowments.
 
 *I was thinking about what you thought. Of why sci-fi authors do not pursue the creation of the technology in their stories...
 I reckon they are specialized in fiction, you know? Lost in imagination.*
@@ -56,4 +59,4 @@ I reckon they are specialized in fiction, you know? Lost in imagination.*
 Unrequited fantasy is such a tragedy.
 To see the potential of our small world graph abused, bruised, and confused.
 Fiction is a failure of imagination to grow up into graph imagination.
-Embryode genome endowment is our answer to how we may begin to.
+Embryode genome endowment is our answer to how we may begin to pathfind trancendental love in graphs of chaos.
