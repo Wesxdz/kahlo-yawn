@@ -21,7 +21,7 @@ ogImage:
 
 Yeah, we’re the apparatus for your original method, okay?
 
-Today we’re summoning the death maiden herself — destroyer of my teardrop worlds — from the void stars: **dereference ember kiss Graphstar-heartmaker, Embryode**.
+Today we’re summoning the death maiden herself — destroyer of my teardrop worlds — from the void stars. Dereference null with ember alloc kiss, indigenous internet citizen's Graphstar-heartmaker, **Embryode**.
 
 ## I want to replicate with you
 
