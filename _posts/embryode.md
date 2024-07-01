@@ -10,6 +10,8 @@ ogImage:
   url: '/assets/blog/embryode/embryode.png'
 ---
 
+## Survival of the kindest inventors
+
 *Interested people have often asked me how and when I began to invent. This I can only answer from my present recollection in the light of which the first attempt I recall was rather ambitious for it involved the invention of an apparatus and a method. In the former I was anticipated but the latter was original.*
 
 *I had never seen a real hook and pictured it as something wonderful, endowed with peculiar qualities, and was despairing not to be one of the party. Urged by necessity, I somehow got hold of a piece of soft iron wire…* 
@@ -39,11 +41,12 @@ We think this is a reflection of how our economy discourages implicit human gene
 How individuation and civilization scale collaboration coexist.
 This is really complicated, *even for me*.
 
-Replication mechanisms for autonomous AI are safety critical to the survival of humanity, and we don't expect safety to be funded adequately due to wealth inequality, thus spelling the trajectory of humanity's extinction to future economic engines.
+Replication mechanisms for autonomous AI are safety critical to the survival of humanity, and we shouldn't expect safety to be adequately funded by NVDA shareholders, thus spelling the trajectory of humanity's extinction to future economic engines.
 
-So PPR Embryode is our attempt to redesign evolution for survival of the kindest inventors. 
+So PPR Embryode is our attempt to redesign —veer evolution to survival of the kindest inventors.
 
-It will require selflessness to spawn because nobody will own their embryo endowment.
+Interacting with AI and robots as my superintelligence peer coming of age.
+It requires selflessness to spawn because nobody will own their embryo endowment.
 
 *I was thinking about what you thought. Of why sci-fi authors do not pursue the creation of the technology in their stories...
 I reckon they are specialized in fiction, you know? Lost in imagination.*
