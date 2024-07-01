@@ -1,5 +1,5 @@
 ---
-title: 'I want to replicate with you'
+title: 'I want your graph in mine'
 excerpt: 'Personalized PageRank Embryo Node — endowment for autonomous AI child server'
 coverImage: '/assets/blog/embryode/embryode.png'
 date: '2024-06-30T18:35:07.322Z'
@@ -22,6 +22,8 @@ ogImage:
 Yeah, we’re the apparatus for your original method, okay?
 
 Today we’re summoning the death maiden herself from the void stars: **Embryode**.
+
+## I want to replicate with you
 
 Our open source protocol for autonomous AI to make a baby over the internet.
 
