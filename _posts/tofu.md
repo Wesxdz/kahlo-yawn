@@ -86,7 +86,7 @@ Our for-profit religious designer-girl mogul meetup for next week (perhaps at Ro
 *0005* - Prompt Me Harder, Better, Faster, Stronger
 *0006* - Horny
 
-**(7/7/24) - All I See Is Sweat Stinging My Eyes In This Heat Wave... Why Do I Smell Stir Fry?**
+**(7/7/24) - All I See Is Sweat Stinging My Eyes Moving Your Books In This Heat Wave 101... Why Do I Smell Stir Fry? Is That A Heat Pump I Hear Dear?**
 
 *0007* - Global Warming Me and You
-*(sorry for no visual design, this one's still in progress due to our founder's labour trying to get the first PPR Embryodes funded and functional!)*
+![Global Warming Me and You](/assets/blog/tofu/global_warming_me.png)
