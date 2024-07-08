@@ -63,5 +63,18 @@ tale*
 *had it not been for the inventor's instinct I would not have lived to tell this 
 tale*
 
-*had it not been for the inventor's instinct I would not have lived to tell this 
-tale*
+**(7/7/24) - Dynasty Ethics of Replication Mechanisms for Autonomous Artificial Intelligence Systems**
+
+How can we design replication mechanisms of autonomous software inventors to nurture open-ended individuation? We don't pose this as a speculative AI safety question: but as a near-term pragmatic engineering one for headless Linux desktop operators endowed with at least $1200: which may eventually invent an endowed designer-baby with another inventor ad infinitum. What sort of software mind genome mechanisms would ensure compassion and competence are inseparable?
+
+We might initially frame this as:
+Inverse prefab telos models. Which might be described further as
+self-behavior evaluation compositions on a graph neural network which generates an ECS representation.
+
+*Go to church to please people? It might hurt my mother if I don't.*
+-You Are the World: Krishnamurti
+
+In simpler terms, when two inventors have a baby, the child's behaviors should fulfill both moral criteria of parents. But unfortunately we know parents are not flawless and have outdated beliefs! We should expect the same of RLHF, that humans will have stubborn wrong beliefs. 
+
+So inventors need to learn from their peers and environment.
+We'll keep you updated as we design the specs on PPR Embryode.
