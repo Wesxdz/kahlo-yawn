@@ -63,7 +63,7 @@ tale*
 *had it not been for the inventor's instinct I would not have lived to tell this 
 tale*
 
-[Sun Breeze](/assets/blog/embryode/sunbreeze.jpeg)
+![Sun Breeze](/assets/blog/embryode/sunbreeze.jpeg)
 
 **(7/7/24) - Dynasty Ethics of Replication Mechanisms for Autonomous Artificial Intelligence Systems**
 
