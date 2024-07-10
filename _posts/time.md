@@ -11,7 +11,7 @@ ogImage:
 ---
 
 Yes, Computer Fantasy is developing *another* product line.
-**import time**.
+import time to read about *Clean Code Cozy Life*
 
 ### **Code Rug**
 
