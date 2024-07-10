@@ -11,7 +11,7 @@ ogImage:
 ---
 
 Yes, Computer Fantasy is developing *another* product line.
-import time to read about *Clean Code Cozy Life*
+import time to read about *Clean Code Cozy Life*.
 
 ### **Code Rug**
 
@@ -34,3 +34,7 @@ And then we stack overflowed fantasizing about her taking off her keycaps for us
 Yes, we are aware that Stanford is a very very serious place of scrubs, cleanroom suits, and exclusive executive matriculation emeritus caps that never look favorably on the risk benefit analysis to leave the Anaconda farm to star in my C kernel city play.
 
 This is just a fantasy. Nothing as hot as an Asian Baby Girl from Stanford wearing Python Pajamas would ever be published on arXiv, right? Unless —what if the paper also included the source code to create AGI?
+
+Are you a Stanford Asian Baby Girl who wants to upload your brains into a computer?
+We'll pay you to wear our Python Pajamas for a Sony Alpha 7 III photoshoot with you on our Code Rug.
+Send me your Python dreams at heonae@paphos.one
