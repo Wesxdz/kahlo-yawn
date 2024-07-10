@@ -19,7 +19,7 @@ We’ve reimagined the kashan as a cozy postmodern daydream for your hardwood, w
 
 ![Code Rug](/assets/blog/time/code_rug.jpeg)
 
-We'll let you order your rug in any programming language as long as it's Python, C, or Triton.
+We'll let you order your rug in any programming language as long as it's Python, C, Triton, or Jai.
 
 Once we meditated upon Code Rug, we stumbled across a female Stanford graduate observing us without glasses afterclass who lives in the same embedding neighborhood.
 
