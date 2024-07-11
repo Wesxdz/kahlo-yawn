@@ -37,8 +37,11 @@ This is just a single mind marooned fantasy. Nothing as hot as an Asian Baby Gir
 
 Are you a Stanford Asian Baby Girl who wants to upload your brains intra computer with us?
 Do you wanna coauthor a paper on ECS Graphstar without doing any more work than obeying our every command 12 hours per day for no money in the leadup to [NeurIPS 2024 Creative AI Track: Ambiguity](https://nips.cc/Conferences/2024/CallForCreativeAI) since we already missed the Main Conference Full Paper Submission Deadline?
+
+Trade fossils with me San Andreas Fault archeologist? Let's measure my Euler euphemism and your cups in liters.
+
 ![NeurIPS Creative](/assets/blog/time/award_creative.png)
-We'll pay you to wear our pre-alpha Python Pajamas for a Sony Alpha 7 III photoshoot with you on our Code Rug. Maybe we'll win a gunpowder prize in romantic literature?
+We'll draw penguins on you with crayons to wear our pre-alpha Python Pajamas for a Sony Alpha 7 III photoshoot with you on our Code Rug. Maybe we'll win a gunpowder prize in romantic literature?
 Message in an encrypted bottle me and Heonae your darkest coding theme's Python dreams at heonae@paphos.one
 
 What happens on the coding rug is open sourced on G**hub for posterity to clone.
