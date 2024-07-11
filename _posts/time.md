@@ -31,10 +31,11 @@ And then we stack overflowed fantasizing about her taking off her keycaps for us
 
 ![Python Neighborhood](/assets/blog/time/stanford_python_pajamas.png)
 
-Yes, we are aware that Stanford is a very very serious place of scrubs, cleanroom suits, and exclusive executive matriculation emeritus caps that never look favorably on the risk benefit analysis to leave the Anaconda farm to star in my C kernel city play.
+Yes, we are aware that Stanford is a very very serious place of scrubs, cleanroom suits, and exclusive executive matriculation emeritus caps that never look favorably on the risk benefit analysis to leave the Anaconda farm to star in my garbage-uncollected unsafe C city play.
 
-This is just a fantasy. Nothing as hot as an Asian Baby Girl from Stanford wearing Python Pajamas would ever be published on arXiv, right? Unless —what if the paper also included the source code to create AGI?
+This is just a fantasy. Nothing as hot as an Asian Baby Girl from Stanford wearing Python Pajamas would ever be leaked on arXiv, right? Unless —what if the submission also included the source code to create AGI?
 
-Are you a Stanford Asian Baby Girl who wants to upload your brains into a computer?
+Are you a Stanford Asian Baby Girl who wants to upload your brains into a computer with us?
 We'll pay you to wear our Python Pajamas for a Sony Alpha 7 III photoshoot with you on our Code Rug.
-Send me your Python dreams at heonae@paphos.one
+Message in an encrypted bottle me and Heonae your darkest coding theme's Python dreams at heonae@paphos.one
+What happens on the coding rug is open sourced on G**hub for posterity to clone.
