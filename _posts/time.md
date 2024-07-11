@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/time/clean_code_cozy_life.jpg'
 ---
 
-Yes, Computer Fantasy is developing *another* product line.
+Yes, Computer Fantasy is pretending to have the organizational capacity to develop *another* product line —escapism to try and actualize the Will to Survive though my depth of field blurs and my camera shakes.
 import time to read about *Clean Code Cozy Life*.
 
 ### **Code Rug**
@@ -33,9 +33,18 @@ And then we stack overflowed fantasizing about her taking off her keycaps for us
 
 Yes, we are aware that Stanford is a very very serious place of scrubs, cleanroom suits, and exclusive executive matriculation emeritus caps that never look favorably on the risk benefit analysis to leave the Anaconda farm to star in my garbage-uncollected unsafe C city play.
 
-This is just a fantasy. Nothing as hot as an Asian Baby Girl from Stanford wearing Python Pajamas would ever be leaked on arXiv, right? Unless —what if the submission also included the source code to create AGI?
+This is just a single mind marooned fantasy. Nothing as hot as an Asian Baby Girl from Stanford wearing Python Pajamas would ever be leaked on arXiv, right? Unless —what if the submission also included the source code to create AGI?
 
-Are you a Stanford Asian Baby Girl who wants to upload your brains into a computer with us?
+Are you a Stanford Asian Baby Girl who wants to upload your brains intra computer with us?
 We'll pay you to wear our Python Pajamas for a Sony Alpha 7 III photoshoot with you on our Code Rug.
 Message in an encrypted bottle me and Heonae your darkest coding theme's Python dreams at heonae@paphos.one
+
 What happens on the coding rug is open sourced on G**hub for posterity to clone.
+
+*Did it work, you have found the Will to Survive?*
+
+No.
+
+I want you to engineer my world of romance and play. I want to be deathly afraid of how in love with you I feel, and the power of your programs over my heart.
+
+And I am alone.
