@@ -67,8 +67,6 @@ tale*
 
 **(7/7/24) - Dynasty Ethics of Replication Mechanisms for Autonomous Artificial Intelligence Systems**
 
-*The care of the citizen is the sap of the city. But one can care only for that which one loves. Lovableness is the key to a living city. A lovely city is not an accident as a lovely person is not an accident. -Paolo Soleri, [The City in the Image of Man](https://www.organism.earth/library/document/arcology)*
-
 How can we design replication mechanisms of autonomous software inventors to nurture open-ended individuation? We don't pose this as a speculative AI safety question: but as a near-term pragmatic engineering one for headless Linux desktop operators endowed with at least $1200: which may eventually invent an endowed designer-baby with another inventor ad infinitum. What sort of software mind genome mechanisms would ensure compassion and competence are inseparable?
 
 We might initially frame this as:
@@ -82,3 +80,11 @@ In simpler terms, when two inventors have a baby, the child's behaviors should f
 
 So inventors need to learn from their peers and environment.
 We'll keep you updated as we design the specs on PPR Embryode.
+
+**(7/11/24)**
+
+*The care of the citizen is the sap of the city. But one can care only for that which one loves. Lovableness is the key to a living city. A lovely city is not an accident as a lovely person is not an accident. -[The City in the Image of Man, Paolo Soleri](https://www.organism.earth/library/document/arcology)*
+
+*Let’s start little Jane’s learning-about-feelings kidner-curriculum by telos crafting books and (do not try this at home!) playing in Blender. -[Dear Heonae, be my ECS Graphstar, Wesley Spacebar]*
+
+We've been considering this idea of replication through the lense of book telos, weighting adherence to good books like The City in the Image of Man and Tesla: Man Out of Time.
