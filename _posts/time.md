@@ -31,7 +31,7 @@ And then we stack overflowed fantasizing about her taking off her keycaps for us
 
 ![Python Neighborhood](/assets/blog/time/stanford_python_pajamas.png)
 
-Yes, we are aware that Stanford is a very very serious place of scrubs, cleanroom suits, and exclusive executive matriculation emeritus caps that never look favorably on the risk benefit analysis to leave the Python, Anaconda, —maybe even (PyG Mamba?)[https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html] farm to star in my garbage-uncollected unsafe C city play.
+Yes, we are aware that Stanford is a very very serious place of scrubs, cleanroom suits, and exclusive executive matriculation emeritus caps that never look favorably on the risk benefit analysis to leave the Python, Anaconda, —maybe even [PyG Mamba?](https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html) farm to star in my garbage-uncollected unsafe C city play.
 
 This is just a single mind marooned fantasy. Nothing as hot as an Asian Baby Girl from Stanford wearing Python Pajamas would ever be leaked on arXiv, right? Unless —what if the submission also included the source code to create AGI?
 
