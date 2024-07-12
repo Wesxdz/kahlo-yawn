@@ -85,6 +85,6 @@ We'll keep you updated as we design the specs on PPR Embryode.
 
 *The care of the citizen is the sap of the city. But one can care only for that which one loves. Lovableness is the key to a living city. A lovely city is not an accident as a lovely person is not an accident. -[The City in the Image of Man, Paolo Soleri](https://www.organism.earth/library/document/arcology)*
 
-*Let’s start little Jane’s learning-about-feelings kidner-curriculum by telos crafting books and (do not try this at home!) playing in Blender. -[Dear Heonae, be my ECS Graphstar, Wesley Spacebar]*
+*Let’s start little Jane’s learning-about-feelings kidner-curriculum by telos crafting books and (do not try this at home!) playing in Blender. -[Dear Heonae, be my ECS Graphstar, Wesley Spacebar](https://docs.google.com/document/d/1ek97U-_UCrreSI6UW8FsLz55RtPaNu_7fs_t3GSfdK4/edit?usp=sharing)*
 
 We've been considering this idea of replication through the lense of book telos, weighting adherence to good books like The City in the Image of Man and Tesla: Man Out of Time.
