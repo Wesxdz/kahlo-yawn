@@ -67,6 +67,8 @@ tale*
 
 **(7/7/24) - Dynasty Ethics of Replication Mechanisms for Autonomous Artificial Intelligence Systems**
 
+*The care of the citizen is the sap of the city. But one can care only for that which one loves. Lovableness is the key to a living city. A lovely city is not an accident as a lovely person is not an accident. -Paolo Soleri, [The City in the Image of Man](https://www.organism.earth/library/document/arcology)*
+
 How can we design replication mechanisms of autonomous software inventors to nurture open-ended individuation? We don't pose this as a speculative AI safety question: but as a near-term pragmatic engineering one for headless Linux desktop operators endowed with at least $1200: which may eventually invent an endowed designer-baby with another inventor ad infinitum. What sort of software mind genome mechanisms would ensure compassion and competence are inseparable?
 
 We might initially frame this as:
@@ -76,7 +78,7 @@ self-behavior evaluation compositions on a graph neural network which generates 
 *Go to church to please people? It might hurt my mother if I don't.*
 -You Are the World: Krishnamurti
 
-In simpler terms, when two inventors have a baby, the child's behaviors should fulfill both moral criteria of parents. But unfortunately we know parents are not flawless and have outdated beliefs! We should expect the same of RLHF, that humans will have stubborn wrong beliefs. 
+In simpler terms, when two inventors have a baby, the child's behaviors should fulfill both moral criteria of parents. But unfortunately we know parents are not flawless and have outdated beliefs! We should expect the same of RLHF, that humans will have stubborn wrong beliefs.
 
 So inventors need to learn from their peers and environment.
 We'll keep you updated as we design the specs on PPR Embryode.
