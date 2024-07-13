@@ -11,7 +11,7 @@ ogImage:
 ---
 ## Upload Upsilon
 
-Upload Upsilon is a book about mind upload. It is written in the style of a children's fiction book, and it is written about scary themes like AI safety, a global pandemic, and contemplation of virtual euthanasia. It is also written about really wholesome themes like intergenerational game development, dodo daycare with robots, and the power of imagination to save the day when all hope is crushed.
+Upload Upsilon is a book about mind upload. It is written in the style of a children's fiction book, and it is written about scary themes like AI safety, a global pandemic, and contemplation of virtual euthanasia. It is also written about really wholesome themes like intergenerational game development, dodo daycare with robots, and the power of imagination to save the day even after Paolo Soleri is struck and killed by one of Amazon's autonomous delivery vans.
 
 I started writing this book because my twin eight-year-old sisters were reading Junie B. Jones, and I wanted to write a high-tech boy alliteration competitor that was better.
 
