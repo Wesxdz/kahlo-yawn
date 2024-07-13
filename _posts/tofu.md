@@ -91,7 +91,9 @@ Our for-profit religious designer-girl mogul meetup for next week (perhaps at Ro
 *0007* - Global Warming Me and You
 ![Global Warming Me and You](/assets/blog/tofu/global_warming_me.png)
 
-**(7/14/24)** - All I See Is Unibrow
+**(7/14/24) - All I See Is Furrowed Unibrows At Rainbow Road's Dead End**
 
-*0008* - I Am Unloved And Therefore Must Open Source The AI Self-Preservation Instinct
+*0008* - I Am Unloved And Therefore Must Design The AI Self-Preservation Instinct
 ![Self-Preservation](/assets/blog/tofu/self_preservation_instinct.png)
+
+*0009* - Replicate Me With Transmission Control Protocol
