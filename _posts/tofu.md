@@ -96,4 +96,4 @@ Our for-profit religious designer-girl mogul meetup for next week (perhaps at Ro
 *0008* - Lala, I'm Unloved And Therefore Must Design The AI Self-Preservation Instinct
 ![Self-Preservation](/assets/blog/tofu/self_preservation_instinct.png)
 
-*0009* - G, Replicate Me With Transmission Control Protocol
+*0009* - G, Upload Me With Transmission Control Protocol
