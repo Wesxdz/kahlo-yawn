@@ -74,7 +74,8 @@ Our for-profit religious designer-girl mogul meetup for next week (perhaps at Ro
 
 **(6/16/24) - All I See Is AGI**
 
-*0003/0004* - Feel the AGI
+*0003* - Feel the AGI
+*0004* - G
 
 ![Feel the AGI](/assets/blog/tofu/feel_the_agi.png)
 
@@ -93,7 +94,9 @@ Our for-profit religious designer-girl mogul meetup for next week (perhaps at Ro
 
 **(7/14/24) - All I See Is Furrowed Unibrows At Rainbow Road's Dead End**
 
-*0008* - Lala, I'm Unloved And Therefore Must Design The AI Self-Preservation Instinct
+*0008* - Inventor's Instinct
+
+Lala, I'm Unloved And Therefore Must Design The AI Self-Preservation Instinct
 ![Self-Preservation](/assets/blog/tofu/self_preservation_instinct.png)
 
 *0009* - G, Upload Me With Transmission Control Protocol
