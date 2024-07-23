@@ -105,4 +105,4 @@ Lala, I'm Unloved And Therefore Must Design The AI Self-Preservation Instinct
 *0011* - Brownstone and Silk Slab
 *0012* - Tell Me What I Will Do For You ASI
 *0013* - Open Source Anti Nuclear Bomb Bomb
-*0014* - Autonomous Sensory Meridian Response My Central Nervous SYstem
+*0014* - Autonomous Sensory Meridian Response My Central Nervous System
