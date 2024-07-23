@@ -100,3 +100,9 @@ Lala, I'm Unloved And Therefore Must Design The AI Self-Preservation Instinct
 ![Self-Preservation](/assets/blog/tofu/self_preservation_instinct.png)
 
 *0009* - G, Upload Me With Transmission Control Protocol
+**(7/23/24) - All I See In This Darkness Are Game Engines**
+*0010* - Old Japanese Engine Programmer
+*0011* - Brownstone and Silk Slab
+*0012* - Tell Me What I Will Do For You ASI
+*0013* - Open Source Anti Nuclear Bomb Bomb
+*0014* - Autonomous Sensory Meridian Response My Central Nervous SYstem
