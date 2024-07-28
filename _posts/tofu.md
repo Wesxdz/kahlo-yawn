@@ -49,7 +49,7 @@ With a graph neural network pacifier we'll experiment setting designer babies’
 
 We've started on digital asset design for the emoji set.
 
-*0000 - Just More Tofu?*
+*0000 - Just More Tofu?* (TOFU)
 
 *0001 - Fantasy Baby Daydream at First Sight*
 
@@ -66,7 +66,7 @@ Our for-profit religious designer-girl mogul meetup for next week (perhaps at Ro
 *Generate another image of tofu plushie. Make it more angry-sexy, kinda witty eyerolling, a tease. Unhinged detective tofu. Just More Tofu...*
 ![Just More Tofu](/assets/blog/tofu/tofu_emoji.webp)
 
-*0002* - Yeah It's Another Tofu. What Are You Gonna Do, Slap My Smart Ass?
+*0002* - Yeah It's Another Tofu. What Are You Gonna Do, Slap My Smart Ass? (TOFU)
 
 ![Spank](/assets/blog/tofu/spank.webp)
 
@@ -84,7 +84,7 @@ Our for-profit religious designer-girl mogul meetup for next week (perhaps at Ro
 
 ![Just More Tofu](/assets/blog/tofu/prompt_harder_expression.svg)
 
-*0005* - Prompt Me Harder, Better, Faster, Stronger
+*0005* - Prompt Me Harder, Better, Faster, Stronger (TOFU)
 *0006* - Horny
 
 **(7/7/24) - All I See Is Sweat Stinging My Eyes Moving Your Books In This Heat Wave 101... Why Do I Smell Stir Fry? Is That A Heat Pump I Hear Dear?**
@@ -105,10 +105,18 @@ Lala, I'm Unloved And Therefore Must Design The AI Self-Preservation Instinct
 
 *0010* - Old Japanese Engine Programmer
 
-*0011* - Brownstone and Silk Slab
+*0011* - Brownstone and Silk Slab (TOFU)
 
 *0012* - Tell Me What I Will Do For You ASI
 
 *0013* - Open Source Anti Nuclear Bomb Bomb
 
 *0014* - Autonomous Sensory Meridian Response My Central Nervous System
+
+**(7/28/24) - All I See Is The Rent Is Way Too Fucking High For Our Civilization To Do Neuroscience Research On How To Upload Dungeoness Crabs Into Computers**
+
+*0015* - Platonic Dreamframe Rent Reduction Collaborator
+
+*0016* - Wholesome Fantasy, Be My Dungeon Inventor (TOFU)
+
+You're on the bottom now. That's it, that's all the emojis in the TCP Babymaker.
