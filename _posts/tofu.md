@@ -109,7 +109,7 @@ Lala, I'm Unloved And Therefore Must Design The AI Self-Preservation Instinct
 
 *0012* - Tell Me What I Will Do For You ASI
 
-*0013* - Open Source Anti Nuclear Bomb Bomb
+*0013* - Open Source Antimatter Bomb
 
 *0014* - Autonomous Sensory Meridian Response My Central Nervous System
 
