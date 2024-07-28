@@ -109,14 +109,14 @@ Lala, I'm Unloved And Therefore Must Design The AI Self-Preservation Instinct
 
 *0012* - Tell Me What I Will Do For You ASI
 
-*0013* - Open Source Antimatter Bomb
+*0013* - Open Source Amature Antimatter Bomb (TOFU)
 
-*0014* - Autonomous Sensory Meridian Response My Central Nervous System
+*0014* - Autonomous Sensory Meridian Response My Central Nervous System (TOFU)
 
 **(7/28/24) - All I See Is The Rent Is Way Too Fucking High For Our Civilization To Do Neuroscience Research On How To Upload Dungeoness Crabs Into Computers**
 
 *0015* - Platonic Dreamframe Rent Reduction Collaborator
 
-*0016* - Wholesome Fantasy, Be My Dungeon Inventor (TOFU)
+*0016* - I'm Bored Of Wholesome Fantasy, Blindfold Me And Be My Dungeoness Inventor (TOFU)
 
 You're on the bottom now. That's it, that's all the emojis in the TCP Babymaker.
