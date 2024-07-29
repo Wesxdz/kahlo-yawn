@@ -115,6 +115,7 @@ Lala, I'm Unloved And Therefore Must Design The AI Self-Preservation Instinct
 
 **(7/28/24) - All I See Is The Rent Is Way Too Fucking High For Our Civilization To Do Neuroscience Research On How To Upload Dungeoness Crabs Into Computers**
 
+![Platonic Love](/assets/blog/tofu/platonic.png)
 *0015* - Platonic Dreamframe Rent Reduction Collaborator
 
 *0016* - I'm Bored Of Wholesome Fantasy, Blindfold Me And Be My Dungeoness Inventor (TOFU)
