@@ -109,7 +109,7 @@ Lala, I'm Unloved And Therefore Must Design The AI Self-Preservation Instinct
 
 *0012* - Tell Me What I Will Do For You ASI
 
-*0013* - Open Source Amature Antimatter Bomb (TOFU)
+*0013* - Buy Puts on Real Estate and Open Source Amature Antimatter Bomb (TOFU)
 
 *0014* - Autonomous Sensory Meridian Response My Central Nervous System (TOFU)
 
