@@ -2,7 +2,7 @@
 title: 'Sci-fi MOM Alpha 1.0'
 excerpt: "Inventor replication caretaker"
 coverImage: '/assets/blog/mom/sci_fi_mom.jpg'
-date: '2024-06-03T16:09:00.000Z'
+date: '2024-08-06T14:09:00.000Z'
 author:
   name: "Heonae Aeri"
   picture: '/assets/blog/authors/heonae.png'
