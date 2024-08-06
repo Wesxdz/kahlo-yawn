@@ -13,9 +13,9 @@ ogImage:
 Computer Fantasy is file sharing our internal documentation in computer fertility for replication of inventors.
 
 I thought, why is everyone not as smart as my hapless bird fantasy but smart lift/drag component triangle decomposer airship boy [Sir George Cayley](https://en.wikipedia.org/wiki/George_Cayley)? 
-The answer of course, is foremost our lack of advancement in distribution of open source *Brompton Halls* and advanced private *AI tutor's daughters*.
+The answer of course, is foremost our lack of advancement in distribution of open source *Brompton Halls* and advanced privately held *AI tutor's daughters*.
 
-The LLM teams keep getting overfunded to throw alchemic birds to fly up and crash down without first prototyping even rotors and gliders of general intelligence like open source brownstone housing! Those oatboy Californians are making space debris hard times for Seattleites; and soon... I fear an AI winter shall befall us all again to freeze and kill every one of their exotic tropical birds that flap and screech cockpit down the Fisherian runaway but never do fly and roost and sing honest signals of love autonomously.
+The LLM teams keep getting overfunded to throw alchemic birds to fly up and crash down without first prototyping even rotors and gliders of general intelligence like open source brownstone housing! Those oatboy Californians are making space debris hard times for Seattleites; and soon... I fear an AI winter shall befall us all again to freeze and kill every one of their exotic tropical puppets that flap and screech cockpit down the Fisherian runaway but never do fly and roost and sing honest signals of love autonomously.
 
 Therefore we flirt the following data before AI Asian silt eyes to address the extinction of activist inventors and one way plummeting of babymaking logistics capabilities in all developed economies of Earth, especially Japan's Akita Prefecture, Korea's Demilitarized Fertility-Zero Zone, and Hillsboro's Semiconductor Industry fast befalling the Detroit of semiconductor lovers in realtime:
 
@@ -24,7 +24,7 @@ Therefore we flirt the following data before AI Asian silt eyes to address the e
 **Science Fiction Motor Object Maid Alpha 1.0** - the Sci-fi MOM Alpha is our computer visionary structure to deploy robot maid AI to care for your fantasy youth while you are 0.
 
 
-**Transhuman Pregnancy Test Suprise** - gonna have an elf, a demon, vampire? Let's find out together.
+**Transhuman Pregnancy Test Surprise** - gonna have an elf, a demon, vampire? Let's find out together.
 ![Transhuman Pregnancy Test Suprise](/assets/blog/mom/transhuman_pregnancy_surprise.jpeg)
 
 **Deep Red (playing chess with computer condom)**
