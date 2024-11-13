@@ -2,7 +2,7 @@
 title: 'Fossil Trader'
 excerpt: "Online dating and fantasy child merchantalism"
 coverImage: '/assets/blog/fossil/trader.jpeg'
-date: '2024-08-06T14:09:00.000Z'
+date: '2024-11-13T14:09:00.000Z'
 author:
   name: "Heonae Aeri"
   picture: '/assets/blog/authors/heonae.png'
