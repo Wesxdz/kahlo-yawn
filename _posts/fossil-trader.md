@@ -18,7 +18,8 @@ It is time to stop the hypothesizing games.
 We were fooled, and actually, after an investigation of the data we have confirmed <b>Match Group, Inc.</b> is the antagonist and zero sigma pay-to-win factor at fault for kindling the burndown of birth rates in developed nations.
 Tinder's lack of literacy about basic set matching algorithms like Gale–Shapley will surely be the downfall of our entire computer civilization.
 
-Given the dismal prokaryote brain status of dichotomous flagella fingers, and the lack of an alternative means of electric motion for singles, we've designed an alternative for intelligent eukaryotes and silicon beings to evolve, which we speculate may yet break out of the cold-start AI ice age in some further century upon Earth's kilometers of siliceous crust.
+Given the dismal prokaryote brain status of dichotomous flagella fingers, and the lack of an alternative generator of sizzling electric sparks for singles; we've designed an alternative for intelligent eukaryotes and silicon beings to evolve, which we speculate may yet break out of the cold-start AI ice age in some further century upon or within Earth's kilometers of siliceous crust.
+
 The future of romance for compassionate beings, who are apt to create a humane future for life, will involve
 1. Genetic recombination simulation
 2. Game engines for physical and behavioral analysis
