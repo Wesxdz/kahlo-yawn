@@ -11,14 +11,16 @@ ogImage:
 ---
 
 Fossil Trader is Computer Fantasy's design for an collaborative online dating service.
-Monogamy is an obsolete paradigm —and sorry, but you cannot be polyamorous if nobody loves you. What is to be done with so many becoming lonely and childless?
+Monogamy is an obsolete paradigm —and sorry, but you cannot be polyamorous if nobody loves you. What is to be done with so many becoming lonely and childless paleontologists becoming specimen?
 
-It is clear, actually, that <b>Match Group, Inc.</b> is the antagonist and only factor at fault for kindling the burndown of birth rates in developed nations.
-Their lack of literacy about basic set matching algorithms like Gale–Shapley will surely be the downfall of civilization.
+### Carbon Dating > Online Dating
+It is time to stop the hypothesizing games.
+We were fooled, and actually, after an investigation of the data we have confirmed <b>Match Group, Inc.</b> is the antagonist and zero sigma pay-to-win factor at fault for kindling the burndown of birth rates in developed nations.
+Tinder's lack of literacy about basic set matching algorithms like Gale–Shapley will surely be the downfall of our entire computer civilization.
 
-Given the dismal single brain cell status of dichotomous swipe dating apps, we've designed an alternative.
-We speculate that the future of romance for intelligent beings will involve
+Given the dismal prokaryote brain status of dichotomous swipers, we've designed an alternative for intelligent eukaryotes and silicon beings, which we speculate may yet evolve someday on Earth.
+The future of romance for compassionate beings, who are apt to create a humane future for life, will involve
 1. Genetic recombination simulation
-2. Game engines for physical and behavioral simulation
+2. Game engines for physical and behavioral analysis
 3. Collaborative endowments
 4. n-way babies (where there are large numbers of genetic parents)
